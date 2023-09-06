@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="description" content = "FAIROS Past Global Change Research Coordination Network RCN">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <style>
+      .logo {
+        
+        height: 127.5px;
+        width: 105px;
+        padding: 20px;
+        /* float: left;
+        position: absolute;
+        top: 50px;
+        left: 30px; */
+      }
+      .describe {
+        padding: 20px;
+      }
+      
+      #nsf-link a {
+        color: #000;
+      }
+      #nsf-link a:hover, a:focus {
+        color:#000;
+        font-weight: normal;
+      }
+      header {
+      background-image: linear-gradient(#42b7bf, white);
+      }
+      footer {
+         background-color: #42b7bf;
+      }
+      h1 h2 h3 h4 h5 h6 {
+        color: #000;
+      }
+      p {
+        font-size: 20px;
+        color: #000;
+      }
+      
+      .flex-container {
+        display: flex;
+        align-items: center;
+        align-content: flex-start;
+        justify-content: flex-start;
+      }
+      @media print, screen and (max-width: 1000px) {
+        .logo {
+
+        }
+      }
+      @media print, screen and (max-width: 960px) {
+        .logo {
+
+        }
+      }
+      @media print, screen and (max-width: 720px) {
+        .logo {
+
+        }
+      }
+      @media print, screen and (max-width: 440px) {
+        .logo {
+
+        }
+      }
+    </style>
+
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+    <link href="data:image/png;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAA
+AAAAAAD/////9fj3//r7+v/u9PH/oMOu/2Kdef9Cil7/PYda/1KUbP+Espb/1eTb///////9/v3/
+/v7+/////////////////8/g1v9noH3/U5Rt/yB2Qv8leEb/OoVY/zuGWv8ne0v/G3M+/zB/T/+L
+tpz/+fv5///////+//7////////////H3M//Em02/xpyPf9noH7/1eTa/+vy7//09/H/6O3e/5O8
+pf82g1b/GnI9/22kg//7/Pz/////////////////3+rj/4+5oP+UvKT/vtXH//////////7/7/n/
+/53Y/f/0+///3unh/0qPZv8ccz//kbqi///////8/f3////////////////////////////6/P3/
+///+/67b+f8Ahvv/W7r5///////R4df/MYBR/zWCVP/k7uj////////////+/v7//P38//z9/P/9
+/v3////////////4/P//hs37/xGb/f9Ut/n//////36vk/8XcDv/psez////////////////////
+///+/v3////+///////19ez/xcB////98f/N6v//AJH6/8Tp///L28f/GHE+/3yukP//////////
+/////////////////////////////////9HMmP++unX//////zmu+/9hv///6ezb/yB2Rf9ro4L/
+////////////////9/jz/+vq1v/////////+//7+/P//////xcGC//fowv9oxf//PbH//93l1P8e
+dUL/dKiJ///////+/v3//////+/s1//DvXf///////39+//9/Pr//////9HQof/q26n/Ur3//0+4
+//+3zbL/E286/5W9pf////////////3////F4/L/vrdq//r37P////////79///////MwHb/3eLO
+/wuc//+R0fz/bKBz/x92RP/O4NX////////////r9fr/FKT//0+gsf/TvGH/9+vJ//vx1v/cyX7/
+zceJ/0Gz//8sq///mcCs/x91P/9inXr///////7//v/9/v/////9/3i4xv8Amfv/NaHT/3eihf98
+o4D/X6i2/x2p//8ZpP//fraw/zOASv8wgFL/1uXc///////9/v3//////5vBrP8idDj/RpF2/yWc
+1P8Rn/z/Dp///w+d+P80nsb/XZt9/yl5Qf8rfU7/vdXG///////9/v3////////////Z5t7/Xpt5
+/yh6RP80fUD/PYVT/z6HXP8/hVH/M31B/yR3Qv9Wl3L/0uLY///////8/f3/////////////////
+//////v8+/+30sP/aaOD/0SLYf87hVf/RIth/2iig/+zz7//+fv5///////9/v3/////////////
+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAA==" rel="icon" type="image/x-icon" /> 
+            
+ 
+    
+
+    
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+   
+  </head>
+  <body>
+    <div class="wrapper">
+      {% if page.title != "Home" %}
+      <header style="padding-top:5px;">
+        <div style="display:flex;flex-wrap:wrap; background-color:#42b7bf; align-items:center;justify-content:center;">
+          
+          <div class="flex-container" style="display:grid;grid-template-columns:auto auto;justify-content:space-evenly;">
+            {% if site.logo %}
+              <img src="{{site.logo | relative_url}}" alt="Logo" class="logo" style="padding-top:0px;padding-bottom:0px;"/>
+            {% endif %}
+          </div>
+          <h1 style="padding-bottom:0px;margin-bottom:0px;"><a style="color:#fff;
+            width:fit-content;position:relative;z-index:10;" href="{{ "/" | absolute_url }}">
+            {{ site.title | default: site.github.repository_name }}</a></h1>
+        </div>
+        {% include navbar2.html %}
+      </header>
+      {% endif %}
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <br>
+        <p style="color:#fff;font-size:16px;">Contact us at <a href="mailto:EthicalOS.RCN@gmail.com" style="color:#fff;font-weight:bold">EthicalOS.RCN@gmail.com</a></p>
+        <br>
+        <p style="color:#fff;font-size:10px;">Return to <a href="https://hoffmanick.github.io/fairos/" style="color:#ededeb;font-size:10px;">main page</a></p>
+        <hr>
+        <a href="https://www.nsf.gov/" id="nsf-link" style="color:#fff;">Funded by <img src="https://hoffmanick.github.io/fairos/images/nsf-logo.png" alt="NSF-logo" width="50" height="50" style="display:inline-block;vertical-align:middle"></a>
+        
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

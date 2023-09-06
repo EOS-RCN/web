@@ -1,0 +1,94 @@
+---
+layout: home
+title: "Home"
+permalink: /
+---
+<style>
+  .text-block-main, .text-block-right, .text-block-left {
+  flex-direction: column;
+  box-shadow: none;
+  }
+  
+  section {
+  background-image: none;
+  background-color: #fff;
+  }
+  
+  #miss-faca {
+  display:grid;
+  justify-content: space-evenly;
+  }
+  
+  @media print, screen and (max-width:665px) {
+    #miss-faca {
+     justify-content: center;
+    }
+  }
+  
+    @media print, screen and (max-width:472px) {
+    #miss-faca {
+      grid-template-columns: repeat(auto-fit, 400px);
+      justify-content: center;
+    }
+  }
+  
+      @media print, screen and (max-width:417px) {
+    #miss-faca {
+      grid-template-columns: repeat(auto-fit, 300px);
+      justify-content: center;
+    }
+  }
+  
+  
+  
+</style>
+
+<div style="display:grid;grid-template-columns: 2fr 200px; background-color:#fff; margin-left:5%; margin-right: 5%; border-bottom: 1px solid #ec970b;">
+<div class="text-block-main" style="display:grid; padding-left:5%;align-content:center;width:95%; grid-template-rows:auto auto;background-image:none;">
+<h1 style="font-size:calc(10px + 4.5vw);width:100%;margin-bottom:0;">Ethical Open Science for Past Global Change Data</h1>
+    <p style="font-size:calc(13px + 1vw);width:98%;max-width:1000px;padding-right:2%;;">
+    Moving the Quaternary data ecosystem toward justice</p>
+  </div>
+  <img src="images/arrows-transp.png" alt="arrows" style="display:inline-block;vertical-align:middle;float:right;width:228px;height:399.333px;margin-right:4%;margin-top:1%;margin-bottom:0.5%;margin-left:1%;">
+</div>
+
+<div id="miss-faca">
+<div id="mission">
+  <h1 style="text-align:-webkit-center;font-size:calc(25px + 1vw); 
+           margin-top:20px; margin-bottom:0px; width:40%; margin-left:30%;margin-right:30%;">Our Mission</h1>
+  <p style="font-size:calc(17px + 0.7vw);margin-left:8.75%;margin-right:8.75%;margin-top:0%;;background-color:rgba(151,183,121,0.7);
+          padding-left:2%;padding-right:2%;padding-top:0.25%;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+          padding-bottom:0.75%;text-align:-webkit-center;">Our overarching aim is to build technical and
+social capacity among community-curated data repositories in the Quaternary sciences by supporting technical
+implementation of ethical open science (OS) principles and developing communities 
+of practice focused on CARE (collective benefit, authority to control, responsible, 
+and ethical) and FAIR (findable, accessible, interoperable, and reusable) principles.</p>
+</div>
+<!-- <div id="fair-care-dia" style="align-self:center;">
+  <figure style="margin-left:0px;margin-right:0px;" id="faca-des">
+        <img src="./images/CARE_FAIR_diagram_v10.png" alt="faca" style="width:100%">
+      </figure>
+</div> -->
+</div>
+
+<div class="text-block-left">
+<h1>About</h1>
+<p>Learn more about our <a href="funding">funding</a> structure, or meet our <a href="people">team members.</a></p>
+  </div>
+ 
+<div class="text-block-right" style="box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);">
+<h1>Research</h1>
+ <p>Find out about our <a href="research">research.</a> </p>
+  </div>
+
+<div class="text-block-left" style="box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);">
+<h1>Resources</h1>
+ <p>Get connected to <a href="resources">resources</a> for incorporating ethical open science practices in your work. </p>
+  </div>
+  
+  <div class="text-block-right" style="box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);">
+<h1>News</h1>
+ <p>Stay up to date on <a href="news">news</a> about our research coordination network. </p>
+  </div>
+  
+

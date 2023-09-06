@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<style>
+  .contain {
+  margin-left:0px;
+  margin-right:0px;
+  justify-content: center;
+  display: flex;
+  box-sizing: border-box;
+  background-color: #fff;
+  }
+  .article {
+  flex: 0 0 auto;
+  width: 66.666667%;
+  max-width:100%;
+  padding-right: calc(3rem * 0.5);
+  padding-left: calc(3rem * 0.5);
+  }
+  .section-crumb {
+    font-size: 1rem;
+    line-height:1.4;
+    margin-top: 0.95rem;
+    position: relative;
+  }
+  .headline {
+  margin-top: 1.25rem;
+  font-size: calc(1.475rem+2.7vw);
+  margin-bottom:1.25rem;
+  }
+  .primary {
+    margin-bottom:1.25rem;
+    margin: 0 0 1rem;
+  }
+ </style>
+
+<div class="contain">
+  <div class="article">
+    <p class="section-crumb"><a href="https://hoffmanick.github.io/fairos/news">News & Events</a></p>
+    <h1 class="headline">{{ page.title }}</h1>
+    {% if page.image %}
+      <figure class=primary>
+        <img src={{ page.image }} width="300vw" alt="{{ page.alt }}" style="max-width:500px;">
+        <figcaption style="max-width:500px;">{{ page.figcap }}</figcaption>
+      </figure>
+    {% endif %}
+     {{ content }}
+    <p style="font-size:1.125rem;line-height:1.8;margin-top:0;margin-bottom:1rem;">Posted on {{ page.date | date_to_string }}, by {{ page.author }}</p>
+  </div>
+</div>

@@ -1,0 +1,128 @@
+---
+theme: jekyll-theme-minimal
+layout: page
+title: Ethical Open Science for Past Global Change Data
+description: Implementing FAIR and CARE principles in the historical sciences
+email: "EthicalOS.RCN@gmail.com"
+logo: "/images/fairos-logo-transp.png"
+paginate: 10
+team_members:
+  -
+    name: "Jessica Blois"
+    role: "Project Leader"
+    institution: "University of California, Merced"
+    picture: "\"./images/blois_headshot.jpg\""
+  -
+    name: "Simon Goring"
+    role: "Informatics Domain Leader"
+    institution: "University of Wisconsin, Madison"
+    picture: "\"./images/goring_headshot.jpg\""
+  -
+    name: "Andrea Thomer"
+    role: "Informatics Domain Leader"
+    institution: "University of Arizona"
+    picture: "\"./images/thomer_headshot.png\""
+  -
+    name: "Meghan Balk"
+    role: "Science Applications Leader"
+    institution: "University of Arizona"
+    picture: "\"./images/balk_headshot.jpg\""
+  -
+    name: "Kitty Emery"
+    role: "Science Applications Leader"
+    institution: "University of Florida"   
+    picture: "\"./images/emery_headshot.jpg\""
+  -
+    name: "Leigh Lieberman"
+    role: "CARE Domain Leader"
+    institution: "Open Context"
+    picture: "\"./images/lieberman_headshot.jpg\""
+  - 
+    name: "John W. Williams"
+    role: "Care Domain Leader"
+    institution: "University of Wisconsin, Madison"
+    picture: "\"./images/williams_headshot.jpg\""
+  -  
+    name: "Suzanne Pilaar Birch"
+    role: "Science Applications Team"
+    institution: "University of Georgia"
+    picture: "\"./images/birch_headshot.jpg\""
+  -
+    name: "Michelle LeFebvre"
+    role: "Science Applications and CARE Domain Teams"
+    institution: "University of Florida"
+    picture: "\"./images/lefebvre_headshot.png\""
+
+advise_members:
+  -
+    name: "Tonya Connor"
+    institution: "University of North Dakota"
+    picture: "\"./images/connor_headshot.jpg\""
+  -
+    name: "Edward Davis"
+    institution: "University of Oregon Museum of Natural and Cultural History"
+    picture: "\"./images/davis_headshot.jpg\""
+  -
+    name: "Nick McKay"
+    institution: "Northern Arizona University"
+    picture: "\"./images/mckay_headshot.jpg\""
+  -
+    name: "Carrie Morrill"
+    institution: "National Oceanic and Atmospheric Administration"
+    picture: "\"./images/morrill_headshot.jpg\""
+  -
+    name: "Ricardo Punzalan"
+    institution: "University of Michigan"
+    picture: "\"./images/punzalan_headshot.jpg\""
+  -
+    name: "Mark Uhen"
+    institution: "George Mason University"   
+    picture: "\"./images/uhen_headshot.jpg\""
+    
+personnel_members:
+  -
+    name: "Melissa Cradic"
+    institution: "Open Context"
+    role: "Digital Humanities Project Specialist"
+    picture: "\"./images/cradic_headshot.jpg\""
+  -
+    name: "Nicole Fuller"
+    institution: "Florida Museum of Natural History"
+    role: "Archaeology Collections Manager"
+    picture: "\"./images/fuller_headshot.jpg\""
+  -
+    name: "Jen Green"
+    institution: "Florida Museum of Natural History"
+    role: "Archaeology Collections Manager"
+    picture: "\"./images/green_headshot.jpg\""
+  -
+    name: "Nick Hoffman"
+    institution: "University of California, Merced"   
+    role: "Community Engagement Specialist"
+    picture: "\"./images/hoffman_headshot.jpg\""
+  -
+    name: "Eric Kansa"
+    institution: "Open Context"
+    role: "Program Director"
+    picture: "\"./images/kansa_headshot.png\""
+  -
+    name: "Natalie Raia"
+    institution: "University of Arizona"
+    role: "Interoperability Specialist"
+    picture: "\"./images/raia_headshot.jpg\""
+
+---
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      
+      
+collections:
+  posts:
+    output: true
+      
+  
+
