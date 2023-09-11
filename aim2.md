@@ -36,7 +36,7 @@ permalink: /aim2
   padding-top:1%;
   font-size:17px;
   text-align:left;
-  margin-bottom:4%;
+  margin-bottom:min(4%,20px);
   }
   .bttn:hover {
   background-color:#faf3e8;
