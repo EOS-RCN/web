@@ -262,6 +262,7 @@ permalink: /aim2
 <p>The adoption of ethical open science principles depends not just on technical advances but also on establishing a culture of openness, literacy, and trust in FAIR and CARE principles. In order to disseminate ethical and open curatorial practices amongst the broader community, we will lead and facilitate training and outreach workshops at professional society meetings. To do this, we will convert the various best practices documentation into training videos and other introductory resources aimed at the core disciplinary practitioner communities. </p>
             </div>
       </div>
+      <br>
       <button class="bttn" id="year3" onclick="Func_year3()"> 
           <div><p>The <strong>Year 3 Webinar and Hackathon</strong> and guidance on <strong>data stewardship best practices</strong></p></div>
       </button>
