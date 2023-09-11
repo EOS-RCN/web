@@ -69,7 +69,7 @@ permalink: /aim3
   font-weight:900;
   }
   .show_b {
-  width:150%;
+  <!-- width:150%; -->
   }
   
  #cap {
@@ -132,7 +132,7 @@ permalink: /aim3
   
   @media print, screen and (max-width: 720px) {
   .show_b {
-  width:200%;
+  <!-- width:200%; -->
   }
   }
 
@@ -143,7 +143,7 @@ permalink: /aim3
   }
   
    #main-text {
-  width: 200%;
+  <!-- width: 200%; -->
   position: relative;
   } 
   
@@ -154,7 +154,7 @@ permalink: /aim3
   
  @media print, screen and (max-width: 1300px) {
   #main-text {
-  width: 170%;
+  <!-- width: 170%; -->
   } 
   }
 
@@ -168,7 +168,7 @@ permalink: /aim3
   
    @media print, screen and (max-width: 1180px) {
   #main-text {
-  width: 150%;
+  <!-- width: 150%; -->
   } 
   
     #care-des {
@@ -179,7 +179,7 @@ permalink: /aim3
   
      @media print, screen and (max-width: 1089px) {
   #main-text {
-  width: 130%;
+  <!-- width: 130%; -->
   } 
   
     #care-des {
@@ -190,7 +190,7 @@ permalink: /aim3
   
        @media print, screen and (max-width: 980px) {
   #main-text {
-  width: 110%;
+  <!-- width: 110%; -->
   } 
   }
 
