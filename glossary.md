@@ -96,7 +96,7 @@ div.text-block-main {
 <div class="text-block-right" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));background-image:linear-gradient(to left, #fff, 90%, #97b779);padding:0;margin-right:0;width:100%;" id="headingblock">
     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;background-color:transparent;padding-left:5%;align-content:center;width:95%;" id="heading-left">
       <h1 style="font-size:calc(20px + 3vw);align-self:start;">Glossary</h1>
-      <p style="align-self:start;padding-top:10px;" id="describe">Learn more about our key words.</p>
+      <p style="align-self:start;padding-top:10px;" id="describe">This glossary is a work in progress. <a href="mailto:EthicalOS.RCN@Gmail.com">Let us know</a> if there are other words we use that you would like to see defined here. </p>
     </div>
    <!-- <div class="text-block-right" style="background-color:transparent;padding-left:0;float:right;justify-self:end; margin-right:5%; margin-left: 5%; width: 90%;max-width:250px;" id="heading-image">
       <figure id="scroll">
@@ -136,12 +136,12 @@ div.text-block-main {
        </div>
         <br>
           <button class="bttn" id="quat" onclick="Func_quat()"> 
-            <div><p><strong>The Quaternary Research Community</strong></p></div>
+            <div><p><strong>The Quaternary</strong></p></div>
       </button>
           <div class="collapse" id="readMore_quat">
             <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-              <p>The Quaternary research community is a network of scientists and data managers who study the archaeology, climate, and ecology of the Quaternary period, 
-                a division of the <a href="https://rock.geosociety.org/net/documents/gsa/timescale/timescl.pdf?v=2022">Cenozoic Era</a>. The Quaternary period began with the Pleistocene Epoch 2.58 million years ago and continues today, and is characterized by long cold ice ages interrupted by short warmer interglacial ages.</p>
+              <p>The Quaternary period is 
+                a geologically defined stretch of time. It is a division of the <a href="https://rock.geosociety.org/net/documents/gsa/timescale/timescl.pdf?v=2022">Cenozoic Era</a>. The Quaternary period began with the Pleistocene Epoch 2.58 million years ago and continues today, and is characterized by long cold ice ages interrupted by short warmer interglacial ages.</p>
             </div>
       </div>
         <br>
