@@ -70,7 +70,8 @@ div.text-block-main {
           <div style="diplay:grid;grid-template-rows: auto auto auto; justify-content:start; align-content:center;padding-right:10%;padding-top:10%;height:90%;align-self:start;" class="prof-text">
             <p style="font-size:15px;font-weight:bold;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.name }}</span></p>
             <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.role }}</span></p>
-            <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.id }}</span></p>
+            <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.email }}</span></p>
+            <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.website }}</span></p>
             <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.institution }} </span></p>
           </div>
           
