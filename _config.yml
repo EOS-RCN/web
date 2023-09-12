@@ -11,47 +11,50 @@ team_members:
     name: "Jessica Blois"
     role: "Project Leader"
     institution: "University of California, Merced"
+    website: "https://jessicablois.com/"
+    email: "jblois@ucmerced.edu"
     picture: "\"./images/blois_headshot.jpg\""
   -
-    name: "Simon Goring"
-    role: "Informatics Domain Leader"
-    institution: "University of Wisconsin, Madison"
-    picture: "\"./images/goring_headshot.jpg\""
-  -
-    name: "Andrea Thomer"
-    role: "Informatics Domain Leader"
-    institution: "University of Arizona"
-    picture: "\"./images/thomer_headshot.png\""
-  -
     name: "Meghan Balk"
-    role: "Science Applications Leader"
-    institution: "University of Arizona"
+    institution: "University of Arizona, University of Oslo"
+    email: "meghan.balk@gmail.com"
     picture: "\"./images/balk_headshot.jpg\""
   -
-    name: "Kitty Emery"
-    role: "Science Applications Leader"
-    institution: "University of Florida"   
-    picture: "\"./images/emery_headshot.jpg\""
-  -
-    name: "Leigh Lieberman"
-    role: "CARE Domain Leader"
-    institution: "Open Context"
-    picture: "\"./images/lieberman_headshot.jpg\""
-  - 
-    name: "John W. Williams"
-    role: "Care Domain Leader"
-    institution: "University of Wisconsin, Madison"
-    picture: "\"./images/williams_headshot.jpg\""
-  -  
     name: "Suzanne Pilaar Birch"
-    role: "Science Applications Team"
     institution: "University of Georgia"
+    email: "sepbirch@uga.edu"
     picture: "\"./images/birch_headshot.jpg\""
   -
-    name: "Michelle LeFebvre"
-    role: "Science Applications and CARE Domain Teams"
+    name: "Kitty Emery"
     institution: "University of Florida"
+    email: "kemery@flmnh.ufl.edu"
+    picture: "\"./images/emery_headshot.jpg\""
+  -
+    name: "Simon Goring"
+    institution: "University of Wisconsin, Madison"
+    email: "goring@wisc.edu"
+    picture: "\"./images/goring_headshot.jpg\""
+  -
+    name: "Michelle LeFebvre"
+    institution: "University of Florida"
+    email: "mlefebvre@floridamuseum.ufl.edu"
     picture: "\"./images/lefebvre_headshot.png\""
+ -
+    name: "Leigh Lieberman"
+    institution: "Princeton, Open Context"
+    email: "llieberm@princeton.edu"
+    picture: "\"./images/lieberman_headshot.jpg\""
+  - 
+    name: "Andrea Thomer"
+    institution: "University of Arizona"
+    email: "athomer@arizona.edu"
+    picture: "\"./images/thomer_headshot.png\""
+  -
+    name: "John W. Williams"
+    institution: "University of Wisconsin, Madison"
+    email: "jwwilliams1@wisc.edu"
+    picture: "\"./images/williams_headshot.jpg\""
+
 
 advise_members:
   -
@@ -108,7 +111,7 @@ personnel_members:
   -
     name: "Natalie Raia"
     institution: "University of Arizona"
-    role: "Interoperability Specialist"
+    role: "Postdoctoral Scholar"
     picture: "\"./images/raia_headshot.jpg\""
 
 ---
