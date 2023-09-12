@@ -83,7 +83,7 @@ div.text-block-right {
   <div class="text-block-right" style="display:grid;grid-template-columns:repeat(auto-fit, minmax(200px, 1fr));background-image:linear-gradient(to left, #fff, 90%, #97b779);padding:0;" id="headingblock">
     <div class="text-block-right" style="display:grid;grid-template-rows:40px auto;background-color:transparent;padding-left:5%;align-content:center;width:95%;" id="heading-left">
       <h1 style="font-size:calc(20px + 3vw);align-self:start;">Our Work</h1>
-      <p style="align-self:start;padding-top:10px;margin-top:3%;" id="describe">Building an open and just scientific community</p>
+      <p style="align-self:start;padding-top:10px;margin-top:3%;" id="describe">We aim to improve data infrastructure for the Quaternary scientific community.</p>
     </div>
     <div class="text-block-right" style="background-color:transparent;padding-left:0;float:right;justify-self:end;max-width:460px; margin-right:5%; margin-left: 5%; width: 90%;" id="heading-image">
       <figure id="stakes">
@@ -92,17 +92,11 @@ div.text-block-right {
       </figure>
     </div>
   </div>
-
-<div class="text-block-right" style="display:grid;padding:0;margin-top:1%; margin-left:15%;margin-right:15%;width:60%;padding-left:5%;padding-right:5%;border: 1px solid #ec970b;" id="overview">
-  <p style="align-self:start;padding-top:10px; text-align:center;" id="general"> We aim to improve data infrastructure for the Quaternary scientific community.</p> 
-  <p style="text-align:center;">We will modify our repositories of fossil specimen data to make their holdings more <strong>accessible</strong>. We will make these repositories more <strong>equitable</strong> as well, especially for the Indigenous nations from whose lands the fossils have been excavated. We will train those who manage these data and those who use them for research purposes in <strong>best practices</strong> to maintain access and equity into the future. </p>
-</div>
-  
   <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;background-color:blue;padding:0px;" id="meatblock">
     <div class="text-block-right" style="display:grid;justify-content:space-around;padding-top:17px;margin-right:0px;padding-left:4.5%;padding-right:4.5%;width:91%;" id="aimses">
       <div class="text-block-right" style="max-width:500px;padding-left:0px;padding-top:0px;padding-bottom:0px;padding-right:5%; border-bottom: 1px solid #ec970b; border-right: 1px solid #ec970b; margin-left:3%; border-left: 1px solid #ec970b; width:90%; padding-left:2%;">
         <h3 style="border-bottom: 1px solid #ec970b;"> <a href="{{site.baseurl}}/aim1" style="font-size:1.4em">Aim 1:</a> Improve Interoperability and Reproducibility </h3>
-        <p> We will develop guidance for interoperability among community-curated data resources and
+        <p style="text-align:center;"> We will develop guidance for interoperability among community-curated data resources and
         promote adoption of broader metadata standards. </p>
       </div>
       <div class="text-block-right" style="max-width:500px;padding-left:0px;padding-top:0px;padding-bottom:0px;padding-right:5%; border-bottom: 1px solid #ec970b; border-right: 1px solid #ec970b; margin-left:3%; border-left: 1px solid #ec970b; width:90%; padding-left:2%;">
@@ -111,7 +105,7 @@ div.text-block-right {
       </div>
       <div class="text-block-right" style="max-width:500px;padding-left:0px;padding-top:0px;padding-bottom:0px;padding-right:5%; border-bottom: 1px solid #ec970b; border-right: 1px solid #ec970b; margin-left:3%; border-left: 1px solid #ec970b; width:90%; padding-left:2%;">
         <h3 style="border-bottom: 1px solid #ec970b;"> <a href="{{site.baseurl}}/aim3" style="font-size:1.4em">Aim 3:</a> Support Equity and Improve Access </h3>
-        <p> We will democratize science in a manner that recognizes broader concepts of data ownership and ethical data curation. </p>
+        <p style="text-align:center;"> We will democratize science in a manner that recognizes broader concepts of data ownership and ethical data curation. </p>
       </div>
     </div>
 </div>
