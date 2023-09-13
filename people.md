@@ -129,7 +129,12 @@ div.text-block-main {
   <h2 style="color:#42b7bf;margin-bottom:0px; background-color:#fff;z- index:9;position:relative;overflow:visible; border-bottom:1px solid #ec970b;width:100%">Related Repositories</h2>
   </div>
   <div class="text-block-right" style="flex-direction:row;flex-wrap:wrap;padding-top:0px;align-content:center;padding-left:0%;width:90%;margin-left:5%;margin-right:5%; justify-content:center;">
-   <img src="./images/rcn_stakes.png" style="border:1px solid #ec970b;margin-top:15px;">
+   <img src="./images/rcn_stakes.png" style="border:1px solid #ec970b;margin-top:15px;" usemap="#repomap">
+  <map name="repomap">
+  <area shape="rect" coords="26,62,118,123" alt="Neotoma" href="https://www.neotomadb.org/">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
+</map>
   </div>
 </div>
   
