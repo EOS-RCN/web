@@ -227,17 +227,9 @@ permalink: /aim2
     <div>
     <h2>Overview</h2>
     <div id="main-text">
-      <p>The Quaternary sciences have developed multiple mid-scale repositories containing large amounts of related but heterogeneously structured data. We must approach curation of this data from two perspectives. On the one hand, we must work with disciplinary scientists to train them in best practices for collecting and publishing data to support dissemination and reuse; on the other hand, we must also work with the data  managers to design best practices that facilitate data stewardship.</p>
+      <p>The Quaternary sciences have developed multiple mid-scale repositories containing large amounts of related but heterogeneously structured data. We must approach curation of this data from two perspectives. On the one hand, we must work with disciplinary scientists to train them in best practices for collecting and publishing data to support dissemination and reuse; on the other hand, we must also work with the data  managers to design best practices that facilitate data stewardship. As our RCN evolves, our activities may change. Currently we are planning the following activities. </p>
       <h2>Activities</h2> 
-        <button class="bttn" id="y2-web" onclick="Func_y2web()">
-            <div><p><strong>The Year 2 Webinar and Hackathon</strong></p></div>
-</button>
-        <div class="collapse" id="readMore_y2-web">
-          <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-          <p>The Year 2 hackathon will be focused around science-driven use cases for community-curated data repository alignment and will be preceded by a series of four webinars, introducing early career researchers to the participating community-curated data repositories and to tools and approaches for data alignment. All participants will also be exposed to basic principles of software development through the use of adapted education modules, providing an opportunity to improve skills and to ensure all participants are able to engage fully in the workshop. Webinars following the hackathon will enable ongoing work, keep early career researchers engaged after the symposium, and support the resolution of any ongoing difficulties as participants return to their home institutions. </p>
-          </div>
-        </div>
-    <br>
+
         <button class="bttn" id="os-casestudy" onclick="Func_oscasestudy()">
           <div><p><strong>Doing Open Science Across Disparate Data Types</strong></p></div>
       </button>
@@ -264,11 +256,11 @@ permalink: /aim2
       </div>
       <br>
       <button class="bttn" id="year3" onclick="Func_year3()"> 
-          <div><p>The <strong>Year 3 Webinar and Hackathon</strong> and guidance on <strong>data stewardship best practices</strong></p></div>
+          <div><p><strong>Guidance for data managers</strong></p></div>
       </button>
       <div class="collapse" id="readMore_year3">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-            <p>Interoperability and reproducibility are only part of the open science puzzle. Repositories require trust and practitioners require skills to implement sustainable ethical open science practices. The focus in Year 3 is on solidifying the adoption of better data science and curation practices to support ethical open science in the future, and to preserve the critical role that small- and mid-scale data resources provide in the information architecture of the sciences. We will support the adoption of best practices through continued engagement with early career researchers, while re-engaging members within the Informatics  domain to address technical gaps identified through the Years 1 and 2 hackathon efforts. Year 3 activities  will also focus on software practices that can support trust in online data repositories, including OAuth systems, data versioning, JSON-LD serialization, APIs, and other technical architecture that is required to  properly support ethical open science. The hackathon will focus on implementation of software practices within community-curated data repositories, and follow-up webinars will focus on developing and refining documentation of best practices for  implementing these applications and tools within Quaternary community-curated data repositories.
+            <p>Interoperability and reproducibility are only part of the open science puzzle. Repositories require trust and practitioners require skills to implement sustainable ethical open science practices. We will promote the adoption of better data science and curation practices to support ethical open science in the future, and to preserve the critical role that small- and mid-scale data resources provide in the information architecture of the sciences. We will support the adoption of best practices through continued engagement with early career researchers and other RCN members. We will also focus on software practices that can support trust in online data repositories. 
 </p>
           </div>
       </div>
