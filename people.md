@@ -132,8 +132,22 @@ div.text-block-main {
    <img src="./images/rcn_stakes.png" style="border:1px solid #ec970b;margin-top:15px;" usemap="#repomap">
   <map name="repomap">
   <area shape="rect" coords="26,62,118,123" alt="Neotoma" href="https://www.neotomadb.org/">
-  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
-  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
+  <area shape="rect" coords="210,38,300,125" alt="PBDB" href="https://paleobiodb.org/#/">
+  <area shape="rect" coords="28,162,114,253" alt="EarthLife" href="https://earthlifeconsortium.org/">
+  <area shape="rect" coords="125,190,195,270" alt="Cabah" href="https://epicaustralia.org.au/">
+     <area shape="rect" coords="208,170,310,220" alt="futres" href="https://futres.org/">
+    <area shape="rect" coords="40,337,166,394" alt="neon" href="https://www.neonscience.org/">
+    <area shape="rect" coords="181,375,292,440" alt="gbif" href="https://www.gbif.org/">
+    <area shape="rect" coords="320,362,489,410" alt="flmnh" href="https://www.floridamuseum.ufl.edu/">
+    <area shape="rect" coords="504,363,608,445" alt="isample" href="https://isamplesorg.github.io/home/">
+    <area shape="rect" coords="181,375,608,445" alt="opencontext" href="https://opencontext.org/">
+    <area shape="rect" coords="630,90,733,190" alt="zan" href="https://zooarchnet.org/">
+    <area shape="rect" coords="753,94,905,155" alt="tdar" href="https://core.tdar.org/">
+    <area shape="rect" coords="636,198,721,281" alt="dinaa" href="https://alexandriaarchive.org/dinaa/">
+    <area shape="rect" coords="759,165,880,210" alt="card" href="https://www.canadianarchaeology.ca/">
+    <area shape="rect" coords="739,220,901,276" alt="sead" href="https://www.sead.se/">
+        <area shape="rect" coords="655,335,775,444" alt="noaa" href="https://www.ncei.noaa.gov/products/paleoclimatology">
+    <area shape="rect" coords="784,330,917,439" alt="lipd" href="https://lipd.net/">
 </map>
   </div>
 </div>
