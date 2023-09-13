@@ -197,7 +197,7 @@ permalink: /aim1
     <div>
     <h2>Overview</h2>
     <div id="main-text">
-      <p>We will develop a network of data managers, research practitioners, disciplinary experts, and early career researchers focused on identifying gaps and mismatches among Quaternary data resources, in order to improve interoperability among them. We will particularly prioritize: <ul>
+      <p>Our work is just beginning and will likely evolve over time. Currently, we plan to develop a network of data managers, research practitioners, disciplinary experts, and early career researchers focused on identifying gaps and mismatches among Quaternary data resources, in order to improve interoperability among them. We will particularly prioritize: <ul>
       <li>outreach to data managers and assessment of the current Quaternary informatics landscape,</li>
       <li>identifying areas for crosswalk development to resolve conflicts between existing ontologies and to help support the adoption of CARE aims,</li>
         <li>identifying points of connection between repositories, where the addition of related identifiers could help bridge silos, and</li> 
@@ -208,30 +208,15 @@ permalink: /aim1
 </button>
         <div class="collapse" id="readMore_info-landscape">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-          <p>The aim of this analysis is to map the current Quaternary informatics landscape, evaluate current interoperability efforts, and recommend best practices going forward. Webinar discussions and symposia hackathons will be used to  better understand how data managers are using metadata standards and curating data. We will additionally conduct a structured evaluation of three widely used data resources spanning different data domains: Global Biodiversity Information Facility (GBIF),  the Open Context archaeological repository, and Neotoma Paleoecology Database. </p>
+          <p>The aim of this analysis is to map the current Quaternary informatics landscape, evaluate current interoperability efforts, and recommend best practices going forward, with a focus on several widely used data resources spanning different domains. </p>
             <p>We will evaluate 
               <ol>
               <li>the semantic  <i>coverage</i> of each repository (e.g. what data elements are captured by each repository, and what are the  specific meanings of those elements?) </li>
               <li>points of <i>convergence and conflict</i> between repositories (e.g. what data elements overlap and which are fundamentally mismatched?)</li>
               <li>the <i>completeness</i> of records within repositories, and</li>
-              <li>points for further curatorial intervention—places where additional data curation could make records more accessible or interoperable.</li></ol></p>
+              <li>points for further curatorial intervention—places where additional data curation could make records more accessible, interoperable, or ethical.</li></ol></p>
           </div>
         </div>
-    <br>
-        <button class="bttn" id="symp-hack" onclick="Func_symphack()">
-          <div><p>The Year 1 <strong>webinar series</strong> and a <strong>symposium hackathon</strong></p></div>
-      </button>
-        <div class="collapse" id="readMore_symp-hack">
-          <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-            <p>The primary audience for the webinar series and symposium hackathon is data managers, with close interaction with disciplinary practitioners and other members of the broader community. A series of four webinars will be held prior to the symposium hackathon, to ensure that data managers have a common understanding of key concepts and toolsets applicable to the process of developing interoperable systems. These webinars will include opportunities for structured discussion to support the Mapping the Landscape project, as well as help build relationships between participants prior to the symposium hackathon.</p>
-              <p>Webinar topics will include 
-                <ol>
-<li>an overview of common data standards (e.g. DublinCore, Science on Schema, Geoscience Standard Names)</li> 
-<li>how individuals can serialize their data formats to JSON-LD or other metadata schemes, and</li> 
-<li>how to improve findability and interoperability through services such as DataCite, GeoCODEs  or other tools.</li></ol></p>
-            <p>The hackathon aims to accelerate development of the community of practice established  through the webinars—to learn about ourselves, the work we have done in the past and wish to do in the  future, and start a full assessment of existing open data science resources and opportunities for improved  integration. Development of the hackathon will draw from discussions in webinars and be focused on  implementing solutions, specifically using the identified case studies from across the project to anchor discussions.</p>
-          </div>
-       </div>
   <br>
           <button class="bttn" id="case-study" onclick="Func_casestudy()"> 
             <div><p>The <strong>“Creating Interoperable Data” case study</strong></p></div>
