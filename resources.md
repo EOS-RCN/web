@@ -17,14 +17,16 @@ permalink: /resources
   </div>
   
 <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:5%;width:95%;">
+        <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;">
+      <h2> Further Readings </h2>
+      <p style="margin-bottom:0px;">Take a look at our <a href="https://www.zotero.org/groups/5074488/global_change_fairos/library">bibliography</a> of scholarship on building just and open data infrastructure.</p>
+    </div>
+    
     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;">
       <h2> Educational Materials </h2>
       <p> Check back here soon for our educational material. </p>
     </div>
 
-    <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;">
-      <h2> Further Readings </h2>
-      <p style="margin-bottom:0px;">Take a look at our <a href="https://www.zotero.org/groups/5074488/global_change_fairos/library">bibliography</a> of scholarship on building just and open data infrastructure.</p>
-    </div>
+
 </div>
 
