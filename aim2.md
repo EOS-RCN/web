@@ -213,7 +213,7 @@ permalink: /aim2
   
 <div class="text-block-right" style="display:grid;background-image:linear-gradient(to left, #fff, 90%, #97b779);padding:0;align-content:center;justify-content:space-between;" id="headingblock">
     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;background-color:transparent;padding-left:5%;align-content:center;width:95%;position:relative;" id="heading-left">
-      <h1 id="title" style="font-size:calc(20px + 3vw);"> Aim 2: Enable FAIR Data Curation and Stewardship </h1>
+      <h1 id="title" style="font-size:calc(20px + 3vw);"> Aim 2: Advance Data Curation and Stewardship </h1>
       <p style="align-self:start;padding-top:10px;" id="describe">Engaging Early Career Researchers, Disciplinary Scientists, and Data Managers</p>
     </div>
     <!-- <div class="text-block-right" style="background-color:transparent;padding-left:0;float:right;justify-self:end;max-width:460px; margin-right:5%; margin-left: 5%; align-self:center;" id="heading-image">
