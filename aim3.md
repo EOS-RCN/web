@@ -223,8 +223,17 @@ permalink: /aim3
     <div id="main-text">
       <p>We will advance the implementation of CARE best practices at all stages of the research data life cycle.</p>
       <h2>Activities</h2>
+       <button class="bttn" id="symp" onclick="Func_symp()">
+          <div><p><strong>Structured Self-Reflection</strong></p></div>
+      </button>
+        <div class="collapse" id="readMore_symp">
+          <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
+            <p>Individual researchers and repository leaders should do it.</p>
+          </div>
+       </div>
+      <br>
         <button class="bttn" id="synth" onclick="Func_synth()">
-          <div><p><strong>Implementing CARE practices in Databases</strong></p></div>
+          <div><p><strong>Implementing Ethical Open Science Practices and CARE Principles within Databases</strong></p></div>
 </button>
         <div class="collapse" id="readMore_synth">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
@@ -235,22 +244,13 @@ permalink: /aim3
           </div>
         </div>
       <br>
-        <button class="bttn" id="symp" onclick="Func_symp()">
-          <div><p><strong>Annual plenary symposia</strong></p></div>
-      </button>
-        <div class="collapse" id="readMore_symp">
-          <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-            <p>All symposia will include activities specifically devoted to advancing FAIR and CARE principles, in order to  help set desired professional norms and provide examples of how CARE implementation can be advanced.  Symposia activities will emphasize the importance of CARE data principles at each stage of the research data lifecycle, from initial conceptualization of a project, to data collection and analysis, interpretation and  communication of results, and finally the long term curation and reuse of research data. In the early years  of our RCN activities, we will invite keynote speakers from Research Data Alliance, the Centre for Australian Biodiversity and Heritage (CABAH), and other organizations to provide model examples of advancing CARE, with breakout discussions on how to best advance CARE among participating open-data resources  and their networks of allied practitioners. In later years, we will review and discuss current efforts to begin  implementing CARE best practices in participating data resources.</p>
-          </div>
-       </div>
-      <br>
+       
           <button class="bttn" id="profs" onclick="Func_profs()"> 
             <div><p><strong>Professional development workshops</strong></p></div>
       </button>
           <div class="collapse" id="readMore_profs">
             <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-              <p>In addition to the annual symposia, we plan to lead multiple, virtual, synchronous workshops that are devoted to the professional development of informaticists and early career researchers who are interested in learning about CARE and how best to translate principles to action. These workshops will be attended by RCN members as well as through open calls to the communities of paleo- and modern ecologists, environmental archaeologists, and paleoclimatologists, with early career researchers and members of descendant communities in particular encouraged to apply. Participants will be encouraged to do some reading and preparation in advance of each workshop, which will consist of short lectures and learning activities that contribute to the development of individual action plans for participants.</p>
-<p>While early career researchers tend to think that working with data is important for them and their future careers, many believe that they lack both the comfort and training, especially around ethical practices, to do so. These workshops aim to provide this kind of training specifically for individuals who do not have access to similar resources through their own institutions. In this way, we will be able to expand knowledge around applying CARE to underserved communities, providing mentorship and support so that participants can develop skills that are critically important for their success. Moreover, we aim to publish our curriculum open access so that others can adopt and adapt it for other contexts and audiences, exponentially increasing the number of people this work reaches. </p>
+              <p>Over the course of our work, we plan to develop and lead workshops that support the professional development of scholars who work with Quaternary data infrastructures. These workshops will focus on a variety of topics within the ‘ethical open science’ realm, all aimed at translating principles to action. These workshops will have a particular focus on supporting early career researchers and members of descendant communities. While early career researchers tend to think that working with data is important for them and their future careers, many believe that they lack the training to do so, especially around ethical practices.</p>
             </div>
       </div>
       </div>
