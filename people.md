@@ -140,7 +140,7 @@ div.text-block-main {
     <area shape="rect" coords="181,375,292,440" alt="gbif" href="https://www.gbif.org/">
     <area shape="rect" coords="320,362,489,410" alt="flmnh" href="https://www.floridamuseum.ufl.edu/">
     <area shape="rect" coords="504,363,608,445" alt="isample" href="https://isamplesorg.github.io/home/">
-    <area shape="rect" coords="630,56,608,445" alt="opencontext" href="https://opencontext.org/">
+    <area shape="rect" coords="630,56,905,95" alt="opencontext" href="https://opencontext.org/">
     <area shape="rect" coords="630,90,733,190" alt="zan" href="https://zooarchnet.org/">
     <area shape="rect" coords="753,94,905,155" alt="tdar" href="https://core.tdar.org/">
     <area shape="rect" coords="636,198,721,281" alt="dinaa" href="https://alexandriaarchive.org/dinaa/">
