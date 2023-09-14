@@ -177,6 +177,15 @@ function Func_fair() {
   document.getElementById("data").classList.toggle("bttn_show");
 }
 
+</script>
 
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    if (window.location.href.indexOf("test-anch") > -1) {
+      document.getElementById("readMore_care").classList.toggle("show_b");
+      document.getElementById("care").classList.toggle("bttn_show");  
+    }
+  });
 </script>
