@@ -221,7 +221,7 @@ permalink: /aim3
     <div>
     <h2>Overview</h2>
     <div id="main-text">
-      <p>We will advance the implementation of CARE best practices at all stages of the research data life cycle.</p>
+      <p>We will advance the implementation of CARE best practices at all stages of the research data life cycle. As our RCN evolves, our activities may change. Currently we are planning the following activities.</p>
       <h2>Activities</h2>
        <button class="bttn" id="symp" onclick="Func_symp()">
           <div><p><strong>Structured Self-Reflection</strong></p></div>
