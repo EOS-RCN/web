@@ -204,7 +204,7 @@ permalink: /aim1
         <li>building on existing initiatives to make data resources more open and interconnected.</li></ul></p>
       <h2>Activities</h2> 
         <button class="bttn" id="info-landscape" onclick="Func_infolandscape()">
-            <div><p>An <strong>informatics landscape analysis</strong></p></div>
+            <div><p><strong>An Informatics Landscape Analysis</strong></p></div>
 </button>
         <div class="collapse" id="readMore_info-landscape">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
@@ -219,7 +219,7 @@ permalink: /aim1
         </div>
   <br>
           <button class="bttn" id="case-study" onclick="Func_casestudy()"> 
-            <div><p>The <strong>“Creating Interoperable Data” case study</strong></p></div>
+            <div><p><strong>Creating Interoperable Data</strong></p></div>
       </button>
           <div class="collapse" id="readMore_case-study">
             <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
@@ -234,7 +234,7 @@ permalink: /aim1
       </div>
     <br>
       <button class="bttn" id="guidelines" onclick="Func_guidelines()"> 
-          <div><p><strong>Guidelines for data alignment</strong> between repositories and domains</p></div>
+          <div><p><strong>Guidelines for Data Alignment</strong></p></div>
       </button>
       <div class="collapse" id="readMore_guidelines">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
