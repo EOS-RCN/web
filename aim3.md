@@ -228,7 +228,7 @@ permalink: /aim3
       </button>
         <div class="collapse" id="readMore_symp">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-            <p>Individual researchers and repository leaders should do it.</p>
+            <p> RCN affiliates are engaging in a deep-dive reflection about ethical open science, FAIR, and CARE within both our personal scientific practice and within the policies of our organizations. We expect that our answers to these questions will change over time. The purpose of this self-reflection is to gain an initial honest assessment of where we as practitioners and where our repositories are now in terms of FAIR and CARE. </p>
           </div>
        </div>
       <br>
