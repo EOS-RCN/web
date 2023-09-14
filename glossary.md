@@ -116,7 +116,7 @@ div.text-block-main {
 </button>
         <div class="collapse" id="readMore_care">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-          <p id="test-anch"><a href="https://datascience.codata.org/articles/10.5334/dsj-2020-043">The CARE principles</a> (Collective Benefit, Authority to Control, Responsibility and Ethics) were formulated by Stephanie Russo Carroll, Ibrahim Garba, Oscar L. Figueroa-Rodriguez and other members of the Research Data Alliance's International Indigenous Data Sovereignty Interest Group, in order to help navigate the tension between 1) protecting Indigenous rights and interests in Indigenous data, and 2) supporting open data. The CARE principles build on a tradition of advocacy for Indigenous Peoples' sovereign rights, and assert that
+          <p><a href="https://datascience.codata.org/articles/10.5334/dsj-2020-043">The CARE principles</a> (Collective Benefit, Authority to Control, Responsibility and Ethics) were formulated by Stephanie Russo Carroll, Ibrahim Garba, Oscar L. Figueroa-Rodriguez and other members of the Research Data Alliance's International Indigenous Data Sovereignty Interest Group, in order to help navigate the tension between 1) protecting Indigenous rights and interests in Indigenous data, and 2) supporting open data. The CARE principles build on a tradition of advocacy for Indigenous Peoples' sovereign rights, and assert that
             <ol>
               <li>the use of Indigenous data must yield collective benefit for Indigenous Peoples</li>
               <li>the authority to control who has access to Indigenous data must lie with Indigenous Peoples</li>
@@ -183,9 +183,19 @@ function Func_fair() {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function() {
-    if (window.location.href.indexOf("test-anch") > -1) {
+    if (window.location.href.indexOf("care") > -1) {
       document.getElementById("readMore_care").classList.toggle("show_b");
       document.getElementById("care").classList.toggle("bttn_show");  
     }
   });
 </script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    if (window.location.href.indexOf("fair") > -1) {
+      document.getElementById("readMore_fair").classList.toggle("show_b");
+      document.getElementById("fair").classList.toggle("bttn_show");
+    }
+  });
+</script>
+
