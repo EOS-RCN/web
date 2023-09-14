@@ -208,7 +208,7 @@ permalink: /aim1
 </button>
         <div class="collapse" id="readMore_info-landscape">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-          <p>The aim of this analysis is to map the current Quaternary informatics landscape, evaluate current interoperability efforts, and recommend best practices going forward, with a focus on several widely used data resources spanning different domains. </p>
+          <p>The aim of this analysis is to map the current Quaternary informatics landscape, evaluate current interoperability efforts, and recommend best practices going forward, with a focus on several widely used data resources spanning different domains. We will pay special attention to the power dynamics of these relationships: whose standards and best practices dominate, and whose are marginalized? </p>
             <p>We will evaluate 
               <ol>
               <li>the semantic  <i>coverage</i> of each repository (e.g. what data elements are captured by each repository, and what are the  specific meanings of those elements?) </li>
