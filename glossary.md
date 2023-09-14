@@ -116,7 +116,7 @@ div.text-block-main {
 </button>
         <div class="collapse" id="readMore_care">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-          <p><a href="https://datascience.codata.org/articles/10.5334/dsj-2020-043">The CARE principles</a> (Collective Benefit, Authority to Control, Responsibility and Ethics) were formulated by Stephanie Russo Carroll, Ibrahim Garba, Oscar L. Figueroa-Rodriguez and other members of the Research Data Alliance's International Indigenous Data Sovereignty Interest Group, in order to help navigate the tension between 1) protecting Indigenous rights and interests in Indigenous data, and 2) supporting open data. The CARE principles build on a tradition of advocacy for Indigenous Peoples' sovereign rights, and assert that
+          <p id="test-anch"><a href="https://datascience.codata.org/articles/10.5334/dsj-2020-043">The CARE principles</a> (Collective Benefit, Authority to Control, Responsibility and Ethics) were formulated by Stephanie Russo Carroll, Ibrahim Garba, Oscar L. Figueroa-Rodriguez and other members of the Research Data Alliance's International Indigenous Data Sovereignty Interest Group, in order to help navigate the tension between 1) protecting Indigenous rights and interests in Indigenous data, and 2) supporting open data. The CARE principles build on a tradition of advocacy for Indigenous Peoples' sovereign rights, and assert that
             <ol>
               <li>the use of Indigenous data must yield collective benefit for Indigenous Peoples</li>
               <li>the authority to control who has access to Indigenous data must lie with Indigenous Peoples</li>
