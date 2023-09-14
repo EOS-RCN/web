@@ -246,7 +246,7 @@ permalink: /aim3
       <br>
        
           <button class="bttn" id="profs" onclick="Func_profs()"> 
-            <div><p><strong>Professional development workshops</strong></p></div>
+            <div><p><strong>Professional Development Workshops</strong></p></div>
       </button>
           <div class="collapse" id="readMore_profs">
             <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
