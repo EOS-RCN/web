@@ -256,7 +256,7 @@ permalink: /aim2
       </div>
       <br>
       <button class="bttn" id="year3" onclick="Func_year3()"> 
-          <div><p><strong>Guidance for data managers</strong></p></div>
+          <div><p><strong>Guidance for Data Managers</strong></p></div>
       </button>
       <div class="collapse" id="readMore_year3">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
