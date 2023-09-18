@@ -4,7 +4,9 @@ title: News
 weight : 98
 permalink: /news
 ---
+
 <style>
+@import "https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.js"
 #cal {
   position: relative;
   z-index: 0;
@@ -92,6 +94,10 @@ h1#heading-left {
     </div>
 </div>
 
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.js"></script>
+
+
 <script type="text/javascript">
   var timezone = jstz.determine();
   var pref = '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&title=Upcoming%20EOS%20RCN%20Events&src=Y2U1NzRhZTM5Y2JhOTMyNDIyZDAzNjA1MzFlZDE1OGI0ZmQ4MjdiMDY1YmE3Yjk1YjMxNTk1MWVjYTYwNDVlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EC970B&ctz=';
@@ -100,5 +106,3 @@ h1#heading-left {
   document.getElementById('cal').innerHTML = iframe_html;
 </script>
 
-
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.js"></script>
