@@ -4,9 +4,9 @@ title: News
 weight : 98
 permalink: /news
 ---
-
-<style>
 @import "https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.7/jstz.js"
+<style>
+
 #cal {
   position: relative;
   z-index: 0;
