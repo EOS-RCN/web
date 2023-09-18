@@ -103,5 +103,6 @@ h1#heading-left {
   var suff = '" title = "EOS RCN Events Calendar" style="border: 1px solid #ec970b;width:95%;margin-right:5%;" width="400" height="500" frameborder="0" scrolling="no" id="cal"> wmode="transparent" </iframe>';
   var iframe_html = pref + timezone.name() + suff;
   document.getElementById('cal').innerHTML = iframe_html;
+  console.log(iframe_html);
 </script>
 
