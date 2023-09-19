@@ -89,7 +89,7 @@ h1#heading-left {
 
     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto auto;padding-left:0%;width:1000px;">
       <h2> EOS RCN Events Calendar </h2>
-      <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&title=Upcoming%20EOS%20RCN%20Events&src=Y2U1NzRhZTM5Y2JhOTMyNDIyZDAzNjA1MzFlZDE1OGI0ZmQ4MjdiMDY1YmE3Yjk1YjMxNTk1MWVjYTYwNDVlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EC970B&ctz=America%2FLos_Angeles" title = "EOS RCN Events Calendar" style="border: 1px solid #ec970b;width:95%;margin-right:5%;" width="400" height="500" frameborder="0" scrolling="no" id="cal"> wmode="transparent" </iframe>
+      <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&title=Upcoming%20EOS%20RCN%20Events&src=Y2U1NzRhZTM5Y2JhOTMyNDIyZDAzNjA1MzFlZDE1OGI0ZmQ4MjdiMDY1YmE3Yjk1YjMxNTk1MWVjYTYwNDVlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EC970B&ctz=America%2FChicago" title = "EOS RCN Events Calendar" style="border: 1px solid #ec970b;width:95%;margin-right:5%;" width="400" height="500" frameborder="0" scrolling="no" id="cal"> wmode="transparent" </iframe>
     </div>
 </div>
 
@@ -102,7 +102,7 @@ h1#heading-left {
   var timezone = jstz.determine();
   var pref = '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&title=Upcoming%20EOS%20RCN%20Events&src=Y2U1NzRhZTM5Y2JhOTMyNDIyZDAzNjA1MzFlZDE1OGI0ZmQ4MjdiMDY1YmE3Yjk1YjMxNTk1MWVjYTYwNDVlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EC970B&ctz=';
   var suff = '" title = "EOS RCN Events Calendar" style="border: 1px solid #ec970b;width:95%;margin-right:5%;" width="400" height="500" frameborder="0" scrolling="no" id="cal"> wmode="transparent" </iframe>';
-  var iframe_html = pref + timezone.name() + suff;
+  var iframe_html = pref + timeZone1 + suff;
   document.getElementById('cal').innerHTML = iframe_html;
   console.log(iframe_html);
   console.log(timeZone1);
