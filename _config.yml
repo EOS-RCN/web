@@ -22,6 +22,7 @@ team_members:
     website: ""
     email: "meghan.balk@gmail.com"
     picture: "\"./images/balk_headshot.jpg\""
+    orcid:
   -
     name: "Suzanne Pilaar Birch"
     role: ""
@@ -29,6 +30,7 @@ team_members:
     website: ""
     email: "sepbirch@uga.edu"
     picture: "\"./images/birch_headshot.jpg\""
+    orcid:
   -
     name: "Kitty Emery"
     role: ""
@@ -36,6 +38,7 @@ team_members:
     website: ""
     email: "kemery@flmnh.ufl.edu"
     picture: "\"./images/emery_headshot.jpg\""
+    orcid:
   -
     name: "Simon Goring"
     role: ""
@@ -43,6 +46,7 @@ team_members:
     website: ""
     email: "goring@wisc.edu"
     picture: "\"./images/goring_headshot.jpg\""
+    orcid:
   -
     name: "Michelle LeFebvre"
     role: ""
@@ -50,6 +54,7 @@ team_members:
     website: ""
     email: "mlefebvre@flmnh.ufl.edu"
     picture: "\"./images/lefebvre_headshot.png\""
+    orcid:
   -
     name: "Leigh Lieberman"
     role: ""
@@ -57,6 +62,7 @@ team_members:
     website: ""
     email: "llieberm@princeton.edu"
     picture: "\"./images/lieberman_headshot.jpg\""
+    orcid:
   - 
     name: "Andrea Thomer"
     role: ""
@@ -64,6 +70,7 @@ team_members:
     website: ""
     email: "athomer@arizona.edu"
     picture: "\"./images/thomer_headshot.png\""
+    orcid:
   -
     name: "John W. Williams"
     role: ""
@@ -71,6 +78,7 @@ team_members:
     website: ""
     email: "jwwilliams1@wisc.edu"
     picture: "\"./images/williams_headshot.jpg\""
+    orcid:
 
 
 advise_members:
