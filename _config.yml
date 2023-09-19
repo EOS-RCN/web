@@ -14,6 +14,7 @@ team_members:
     website: "https://jessicablois.com/"
     email: "jblois@ucmerced.edu"
     picture: "\"./images/blois_headshot.jpg\""
+    orcid: "\"https://orcid.org/0000-0003-4048-177X""
   -
     name: "Meghan Balk"
     role: ""
