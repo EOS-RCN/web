@@ -71,12 +71,15 @@ div.text-block-main {
             <a href= {{ team_member.orcid }} style="font-size:15px;font-weight:bold;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.name }}</span></a>
             <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.role }}</span></p>
             <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.email }}</span></p>
-            <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.website }}</span></p>
             <p style="font-size:15px;"><span style="margin-top:2px;margin-bottom:2px;display:inline;">{{ team_member.institution }} </span></p>
           </div>
           
           <div class="image" style="padding:5px;">
+            {% if team_member.website != "" %}
+            <a href={{ team_member.website }}><img src={{ team_member.picture }} style="border:1px solid #ec970b;" class="profiles"></a>
+            {% elsif team_member.website == "" %}
             <img src={{ team_member.picture }} style="border:1px solid #ec970b;" class="profiles">
+            {% endif %}
           </div>
         </div>
     {% endfor %} 
