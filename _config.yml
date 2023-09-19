@@ -11,7 +11,8 @@ team_members:
     name: "Jessica Blois"
     role: "Project Leader"
     institution: "University of California, Merced"
-    website: "https://jessicablois.com/"
+    website: >
+      "https://jessicablois.com/"
     email: "jblois@ucmerced.edu"
     picture: "\"./images/blois_headshot.jpg\""
     orcid: >
