@@ -38,7 +38,7 @@ team_members:
   -
     name: "Kitty Emery"
     role: ""
-    institution: "University of Florida"
+    institution: "Florida Museum of Natural History, University of Florida"
     website: ""
     email: "kemery@flmnh.ufl.edu"
     picture: "\"./images/emery_headshot.jpg\""
@@ -56,7 +56,7 @@ team_members:
   -
     name: "Michelle LeFebvre"
     role: ""
-    institution: "University of Florida"
+    institution: "Florida Museum of Natural History, University of Florida"
     website: ""
     email: "mlefebvre@flmnh.ufl.edu"
     picture: "\"./images/lefebvre_headshot.png\""
@@ -121,32 +121,26 @@ personnel_members:
   -
     name: "Melissa Cradic"
     institution: "Open Context"
-    role: "Digital Humanities Project Specialist"
     picture: "\"./images/cradic_headshot.jpg\""
   -
     name: "Nicole Fuller"
-    institution: "Florida Museum of Natural History"
-    role: "Archaeology Collections Manager"
+    institution: "Florida Museum of Natural History, University of Florida"
     picture: "\"./images/fuller_headshot.jpg\""
   -
     name: "Jen Green"
-    institution: "Florida Museum of Natural History"
-    role: "Archaeology Collections Manager"
+    institution: "Florida Museum of Natural History, University of Florida"
     picture: "\"./images/green_headshot.jpg\""
   -
     name: "Nick Hoffman"
     institution: "University of California, Merced"   
-    role: "Community Engagement Specialist"
     picture: "\"./images/hoffman_headshot.jpg\""
   -
     name: "Eric Kansa"
     institution: "Open Context"
-    role: "Program Director"
     picture: "\"./images/kansa_headshot.png\""
   -
     name: "Natalie Raia"
     institution: "University of Arizona"
-    role: "Postdoctoral Scholar"
     picture: "\"./images/raia_headshot.jpg\""
 
 ---
