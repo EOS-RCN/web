@@ -4,7 +4,7 @@ title: Goring Receives Geoinformatics Award
 author: Nick Hoffman
 date: 2023-10-15
 tags: tag
-image:
+image: "\"https://hoffmanick.github.io/fairos/images/goring_headshot.jpg\""
 alt: goring-award
 figcap:
 ---
