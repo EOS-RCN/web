@@ -8,7 +8,11 @@ image: "\"https://eos-rcn.github.io/web/images/open-context-logo.png\""
 alt: opencontext-imls
 figcap:
 ---
-
+<style>
+  img {
+    background-color:black;
+  }
+</style>
 
 
 <div class="text-box-main">
