@@ -4,7 +4,7 @@ title: OpenContext Receives Grant from IMLS
 author: Nick Hoffman
 date: 2023-8-2
 tags: tag
-image: "\"https://eos-rcn.github.io/web/images/open-context-logo.png\""
+image: "\"https://eos-rcn.github.io/web/images/open-context-logo2.png\""
 alt: opencontext-imls
 figcap:
 ---
