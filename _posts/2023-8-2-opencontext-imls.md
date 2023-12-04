@@ -16,5 +16,5 @@ figcap:
 awarded a grant from the Institute of Museum and Library Services to further their work
 in advancing FAIR and CARE principles in the the cultural heritage sector. Check out more
 <a href="https://alexandriaarchive.org/2023/08/02/imls-grant-supports-faircare-cultural-heritage-network/">here</a>.
-And congratulations to Open Context! Th</p>
+And congratulations to Open Context! </p>
   </div>
