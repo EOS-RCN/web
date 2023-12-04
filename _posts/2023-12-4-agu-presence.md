@@ -4,7 +4,7 @@ title: EOS RCN at the AGU
 author: Nick Hoffman
 date: 2023-12-4
 tags: tag
-image: "\"https://hoffmanick.github.io/fairos/images/agu-2023.png\""
+image: "\"https://eos-rcn.github.io/web/images/agu-2023.png\""
 alt: rcn-agu
 figcap:
 ---
