@@ -4,7 +4,7 @@ title: Webinar with Dr. Pedro Monarrez
 author: Nick Hoffman
 date: 2024-02-20
 tags: tag
-image: ""
+image: 
 alt: monarrez
 figcap: ""
 ---
