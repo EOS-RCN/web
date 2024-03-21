@@ -2,7 +2,6 @@
 layout: default
 title: News
 weight : 98
-permalink: /news
 ---
 <style>
 
