@@ -60,7 +60,7 @@ h1#heading-left {
 
 <div class="text-block-right" style="display:flex;flex-direction:row; flex-wrap:wrap;padding-left:3%;width:97%;" id="posts-calendar">
     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:67%;align-content:start;padding-top:0px;margin-top:20px;border-top: 1px solid #ec970b;min-width:293px;">
-      {% for post in paginator.posts %}
+      {% for post in site.posts %}
       <div class="text-block-right" style="display:grid; grid-template-columns: auto auto; justify-content: start; border-bottom: 1px solid #ec970b;width:95%;padding-top:2%;padding-bottom:2%;">
           {% if post.image %} 
             <img src={{ post.image }} width="180vw" alt="{{ post.alt }}" style="max-width:500px;">
@@ -77,24 +77,6 @@ h1#heading-left {
       </div>
 {% endfor %}
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-      
     </div>
 
     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto auto;padding-left:0%;width:1000px;">
