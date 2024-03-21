@@ -57,18 +57,11 @@ h1#heading-left {
       <h1 style="align-self:start;font-size:calc(20px + 3vw);">Ethical Open Science in the News</h1>
       <p style="align-self:start;padding-top:10px;" id="describe">Learn about what we've been up to, and watch out for upcoming events.</p>
     </div>
-  <!--  <div class="text-block-right" style="background-color:transparent;padding-left:0;float:right;justify-self:end;max-width:460px; margin-right:5%; margin-left: 5%; width: 90%;" id="heading-image">
-      <figure id="notes">
-        <img src="./images/akwesasne_notes_1978.png" alt="notes" style="width=100%;border: 1px solid #ec970b;">
-        <figcaption id="cap">Excerpt from a book review written by Gary Snyder in the Spring 1978 issue of Akwesasne Notes. Akwesasne Notes, “Akwesasne Notes vol. 10 no. 1,” 
-          American Indian Digital History Project, accessed June 12, 2023, http://www.aidhp.com/items/show/48.</figcaption>
-      </figure>
-    </div> -->
   </div>
 
 <div class="text-block-right" style="display:flex;flex-direction:row; flex-wrap:wrap;padding-left:3%;width:97%;" id="posts-calendar">
     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:67%;align-content:start;padding-top:0px;margin-top:20px;border-top: 1px solid #ec970b;min-width:293px;">
-      {% for post in site.posts %}
+      {% for post in paginator.posts %}
       <div class="text-block-right" style="display:grid; grid-template-columns: auto auto; justify-content: start; border-bottom: 1px solid #ec970b;width:95%;padding-top:2%;padding-bottom:2%;">
           {% if post.image %} 
             <img src={{ post.image }} width="180vw" alt="{{ post.alt }}" style="max-width:500px;">
@@ -84,6 +77,24 @@ h1#heading-left {
          </div>
       </div>
 {% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
       
     </div>
 
