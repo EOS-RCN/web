@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming Local Contexts Webinar: Tools to Support Indigenous Data Sovereignty and Cultural Authority
+title: Upcoming Local Contexts Webinar on Tools to Support Indigenous Data Sovereignty and Cultural Authority
 author: Natalie Raia
 date: 2024-03-21
 tags: tag
