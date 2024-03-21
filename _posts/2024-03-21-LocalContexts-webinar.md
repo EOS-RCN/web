@@ -9,7 +9,15 @@ alt: LocalContexts
 figcap: ""
 ---
 
-
+<style>
+  img {
+    width: 500px;
+  }
+  li {
+    font-size:20px;
+    color: #000;
+  }
+</style>
 
 <div class="text-box-main">
 <p>
@@ -57,4 +65,3 @@ and Indigenous innovation.
 <p>
 More information can be found on https://localcontexts.org
   </p>
-</p>
