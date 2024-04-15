@@ -20,6 +20,7 @@ figcap: ""
 </style>
 
 <div class="text-box-main">
+  <p>Register here:  https://arizona.zoom.us/meeting/register/tZwpceCoqT8sGtyRkKBjbLyMWzjuos1T6nik</p>
 <p>
   Join us online for a presentation and Q&A discussion with members from Local Contexts' technical and outreach teams: 
 </p>
