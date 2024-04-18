@@ -1,0 +1,25 @@
+---
+layout: post
+title: Ethical Open Science at CAA 2024 Conference
+author: Nick Hoffman
+date: 2024-04-16
+tags: tag
+image: "\"https://eos-rcn.github.io/web/images/caa2024.png\""
+alt: LocalContexts
+figcap: ""
+---
+
+<style>
+  img {
+    width: 500px;
+  }
+  li {
+    font-size:20px;
+    color: #000;
+  }
+</style>
+
+<div class="text-box-main">
+<p>This month, RCN members Leigh Lieberman and Melissa Cradic led a session alongside Sarah Kansa at the 2024 Computer Applications and Quantitative Methods in Archaeology (CAA) conference on the ethics of open data!
+Learn more about their session <a href="https://2024.caaconference.org/sessions/#S22" target="_blank">here</a>.</p>
+</div>
