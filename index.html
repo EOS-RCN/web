@@ -117,7 +117,7 @@ h1#heading-left {
 <script type="text/javascript">
   const timeZone1 = new Intl.DateTimeFormat().resolvedOptions().timeZone;
   var timezone = jstz.determine();
-  var pref = '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&title=Upcoming%20EOS%20RCN%20Events&src=Y2U1NzRhZTM5Y2JhOTMyNDIyZDAzNjA1MzFlZDE1OGI0ZmQ4MjdiMDY1YmE3Yjk1YjMxNTk1MWVjYTYwNDVlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EC970B&ctz=';
+  var pref = '<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&mode=AGENDA&showTabs=0&title=Upcoming%20EOS%20RCN%20Events&src=Y2U1NzRhZTM5Y2JhOTMyNDIyZDAzNjA1MzFlZDE1OGI0ZmQ4MjdiMDY1YmE3Yjk1YjMxNTk1MWVjYTYwNDVlOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23EC970B&ctz=';
   var suff = '" title = "EOS RCN Events Calendar" style="border: 1px solid #ec970b;width:95%;margin-right:5%;" width="400" height="500" frameborder="0" scrolling="no" id="cal"> wmode="transparent" </iframe>';
   var iframe_html = pref + timeZone1 + suff;
   document.getElementById('cal-contain').innerHTML = iframe_html;
