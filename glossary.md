@@ -141,7 +141,7 @@ div.text-block-main {
           <div class="collapse" id="readMore_quat">
             <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
               <p>The Quaternary period is 
-                a geologically defined stretch of time. It is a division of the <a href="https://rock.geosociety.org/net/documents/gsa/timescale/timescl.pdf?v=2022">Cenozoic Era</a>. The Quaternary period began with the Pleistocene Epoch 2.58 million years ago and continues today, and is characterized by long cold ice ages interrupted by short warmer interglacial ages.</p>
+                the <a href="https://rock.geosociety.org/net/documents/gsa/timescale/timescl.pdf?v=2022">geological time</a> in which we find ourselves now. The Quaternary period began with the Pleistocene epoch 2.58 million years ago. An ice age, the Quaternary period is characterized by long cold glacial phases interrupted by short warm interglacial phases. Our current epoch, the holocene (11,700 years ago to present), is the latest of these short interglacial phases.</p>
             </div>
       </div>
         <br>
