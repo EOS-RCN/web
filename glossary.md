@@ -199,7 +199,7 @@ function Func_fair() {
   });
 </script>
 
-
+<script type="text/javascript">
   $(document).ready(function() {
     if (window.location.href.indexOf("quat") > -1) {
       document.getElementById("readMore_quat").classList.toggle("show_b");
