@@ -426,7 +426,7 @@ div.text-block-right {
     <h4>Ethical Open Science Self-Reflection Survey<strong>.</strong></h4>
     <p>Our self-reflection survey on our personal and institutional relationships to FAIR, CARE, and EOS have been guiding our subsequent actions.</p>
     <h4>Webinar Series<strong>.</strong></h4>
-    <p>We provide a forum for experts in informatics and ethics to share their work with us. Click <a href="https://hoffmanick.github.io/fairos/webinarview" target="_blank">here</a> for more info.</p>
+    <p>We provide a forum for experts in informatics and ethics to share their work with us. Click <a href="https://eos-rcn.github.io/web/webinarview" target="_blank">here</a> for more info.</p>
     <h4>Reading Group<strong>.</strong></h4>
     <p>We meet monthly to discuss selections from the literature on the political economy of data.</p>
   </div></div>
@@ -475,7 +475,7 @@ div.text-block-right {
       <p>Using our focal repositories as case studies, we are developing workflows to surface points where interoperability is inhibited and work toward enhancing data linkages, furthering all our aims.</p>
     <h4>Neotoma constituent database landing pages<strong>.</strong></h4>
       <p>These pages offer greater transparency for users of Neotoma's data, a facet of aims 2 and 3.</p>
-      <p>Click <a href="https://hoffmanick.github.io/fairos/interoperability" target="_blank">here</a> to learn more.</p>
+      <p>Click <a href="https://eos-rcn.github.io/web/interoperability" target="_blank">here</a> to learn more.</p>
   </div>
     
   <div class="abtext2 begin2" id="comtext2">
@@ -484,10 +484,10 @@ div.text-block-right {
     <h4>Ethical Open Science Self-Reflection Survey<strong>.</strong></h4>
     <p>We developed a self-reflection tool on our personal and institutional relationships to FAIR, CARE, and EOS to guide our subsequent actions.</p>
     <h4>Webinar Series<strong>.</strong></h4>
-    <p>We provide a forum for experts in informatics and ethics to share their work with us. Click <a href="https://hoffmanick.github.io/fairos/webinarview" target="_blank">here</a> for more info.</p>
+    <p>We provide a forum for experts in informatics and ethics to share their work with us. Click <a href="https://eos-rcn.github.io/web/webinarview" target="_blank">here</a> for more info.</p>
     <h4>Reading Group<strong>.</strong></h4>
     <p>We meet monthly to discuss selections from the literature on the political economy of biodiversity data.</p>
-   <p>Click <a href="https://hoffmanick.github.io/fairos/community" target="_blank">here</a> to learn more.</p>
+   <p>Click <a href="https://eos-rcn.github.io/web/community" target="_blank">here</a> to learn more.</p>
   </div>
   
       <div class="abtext2 begin2" id="outreachtext2">
@@ -497,13 +497,13 @@ div.text-block-right {
         <p>We are developing college-level educational materials to introduce students to principles of ethical open data management.</p>
         <h4>Data repository decision tree<strong>.</strong></h4>
         <p>We are supporting Quaternary science researchers by developing a resource to guide their choice of repository for data upload.</p>
-        <p>Click <a href="https://hoffmanick.github.io/fairos/outreach" target="_blank">here</a> to learn more.</p>
+        <p>Click <a href="https://eos-rcn.github.io/web/outreach" target="_blank">here</a> to learn more.</p>
       </div>
 
         <div class="abtext2 begin2" id="repotext2">
     <h4>Case studies: Neotoma, Open Context, Florida Museum<strong>.</strong></h4>
       <p>We are using our focal repositories as case studies for improving data governance and bolstering our commitment to ethical open data broadly, including Indigenous data sovereignty.</p>
-      <p>Click <a href="https://hoffmanick.github.io/fairos/governance" target="_blank">here</a> to learn more.</p>
+      <p>Click <a href="https://eos-rcn.github.io/web/governance" target="_blank">here</a> to learn more.</p>
   </div>
     </div>
   
