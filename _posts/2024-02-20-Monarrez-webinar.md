@@ -3,7 +3,7 @@ layout: post
 title: Webinar with Dr. Pedro Monarrez
 author: Nick Hoffman
 date: 2024-02-20
-tags: tag
+tags: webinar
 image: "\"https://eos-rcn.github.io/web/images/pedro_monarrez.jpg\""
 alt: monarrez
 figcap: ""
