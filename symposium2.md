@@ -47,7 +47,7 @@ permalink: /symposium2024
       <li>Introductions</li>
       <li>Repositories governance update (Jack Williams)</li>
       <li>Mapping interoperability update (Andrea Thomer, Natalie Raia)</li>
-      <li>Keynote: on repositories governance (Riley Taitingfong)</li>
+      <li>Keynote 1: Riley Taitingfong</li>
       <li>Cross-walking working group: introduction and goals (Jessica Blois, Simon Goring)</li>
       <li>ECR projects: introduction and goals (Meghan Balk)</li>
       <li>Working group time</li>
@@ -55,13 +55,14 @@ permalink: /symposium2024
       
       <p>July 31st:</p>
       <ol type="A">
+      <li>Keynote 2: Robert Croll</li>
       <li>Working group time</li>
       <li>Visit to College of Menominee Nation Sustainable Development Institute (tentative)</li>
       <li>Tour of Menominee Logging and Cultural Museum</li>
       </ol>
       <p>August 1st:</p>
        <ol type="A">
-      <li>Keynote: On interoperability (LF Murillo)</li>
+      <li>Keynote 3: Luis Felipe Murillo</li>
       <li>Working group time</li>
       <li>Working group report-backs</li>
       <li>Group discussion:</li>
