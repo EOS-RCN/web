@@ -25,10 +25,10 @@ permalink: /symposium2024
         </div>
 
 
-         <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;">
+         <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;padding-bottom:0px;">
       <h2>Goals</h2>
       <p>
-      <ol>
+      <ol style="margin-bottom:0px;">
       <li>To assess our progress across our four activity areas in the past year, </li>
       <li>to discuss metadata needs for creating FAIR and CARE-aligned datasets, </li>
       <li>to survey and address needs of early career researchers in aligning their work with FAIR and CARE, and </li>
@@ -38,7 +38,7 @@ permalink: /symposium2024
         </div>
 
         <div id="right" style="border-left:1px solid #ec970b;padding:5px;">
-    <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;">
+    <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;padding-top:0px;">
       <h2> Agenda </h2>
       <p>
       <p>July 30th:</p>
