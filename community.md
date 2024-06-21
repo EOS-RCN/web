@@ -242,8 +242,8 @@ permalink: /community
             <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
               <p>We meet yearly in-person to advance project aims, with focused time for group reflection on how to think together about implementing ethical open science in our data ecosystems, furthering all our aims. All symposia will include activities specifically devoted to advancing FAIR and CARE principles, in order to help set desired professional norms and provide examples of how CARE implementation can be advanced. 
               <ol>
-              <li><a target="_blank" href="https://eos-rcn.github.io/web/symposium2023">Agenda: Symposium 1 (2023)</a></li>
-              <li><a  target="_blank" href="https://eos-rcn.github.io/web/symposium2024">Agenda: Symposium 2 (2024)</a></li>
+              <li>Symposium 1 (2023): <a target="_blank" href="https://eos-rcn.github.io/web/symposium2023">Agenda</a>, <a target="_blank" href="https://drive.google.com/drive/folders/1U6gJujYwoEdjTn71YNIv6yMio2H23gSP">Google Drive Directory</a></li>
+              <li>Symposium 2 (2024): <a  target="_blank" href="https://eos-rcn.github.io/web/symposium2024">Agenda</a>, <a target="_blank" href="https://drive.google.com/drive/folders/1mhUOxJekxAIlwwpbFUun540j2fOiIIsW">Google Drive Directory</a></li>
               </ol>
 </p>
             </div>
