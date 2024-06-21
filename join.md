@@ -11,7 +11,7 @@ permalink: /join
     </div>
   </div>
   
-<div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:5%;width:95%;">
+<div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:5%;width:90%;padding-right:5%;">
         <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;">
       <h2> Reading Group</h2>
       <p style="margin-bottom:0px;">Our RCN has a monthly <a href="https://eos-rcn.github.io/web/community#reading">reading group</a> to learn together about ethical open science in Quaternary contexts. If you would like to join these reading groups,
