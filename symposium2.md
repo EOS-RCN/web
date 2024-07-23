@@ -47,7 +47,7 @@ permalink: /symposium2024
       <li>Introductions</li>
       <li>Repositories governance update (Jack Williams)</li>
       <li>Mapping interoperability update (Andrea Thomer, Natalie Raia)</li>
-      <li>Keynote 1: Riley Taitingfong</li>
+      <li>Keynote 1, Riley Taitingfong: CARE for Indigenous Data: Operationalizing Indigenous Data Governance in Repositories</li>
       <li>Cross-walking working group: introduction and goals (Jessica Blois)</li>
       <li>ECR projects: introduction and goals (Meghan Balk)</li>
       <li>Working group time</li>
@@ -55,7 +55,7 @@ permalink: /symposium2024
       
       <p>July 31st:</p>
       <ol type="A">
-      <li>Keynote 2: Robert Croll</li>
+      <li>Keynote 2, Robert Croll: Aanji-bimaadiziimagak o’ow aki</li>
       <li>Working group time</li>
             <li>Menominee forest management and history (Ron Waukau)</li>
       <li>Menominee agricultural practice and history (Bill Gartner)</li>
@@ -65,7 +65,7 @@ permalink: /symposium2024
       </ol>
       <p>August 1st:</p>
        <ol type="A">
-      <li>Keynote 3: Luis Felipe Murillo</li>
+      <li>Keynote 3, Luis Felipe Murillo: Common Research Software, Hardware, and Data? The Experience of the SEEKCommons Network</li>
       <li>Working group time</li>
       <li>Working group report-backs</li>
       <li>Group discussion:</li>
