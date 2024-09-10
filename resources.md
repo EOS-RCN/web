@@ -21,7 +21,10 @@ permalink: /resources
       <h2> Further Readings </h2>
       <p style="margin-bottom:0px;">Take a look at our <a href="https://www.zotero.org/groups/5074488/global_change_fairos/library">bibliography</a> of scholarship on building just and open data infrastructure.</p>
     </div>
-    
+     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;">
+      <h2> Our Zenodo Community </h2>
+      <p> <a target="_blank" href="https://zenodo.org/communities/eos-rcn-repo/records">Here</a> you can find presentations given by members of the EOS RCN as well as symposium keynote speakers.</p>
+    </div>
     <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:100%;">
       <h2> Educational Materials </h2>
       <p> Check back here soon for our educational material. </p>
