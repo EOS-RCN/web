@@ -257,8 +257,8 @@ permalink: /community
   <div class="collapse" id="readMore_reading">
   <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
           <p>We have begun a reading group in order to learn together about a variety of topics relating to the intertwining of our repositories with legacies of colonial violence. Readings so far have included: 
-            <li>10/29/24: <a href="https://www.anticolonialresearchlibrary.org/wp-content/uploads/2024/06/Frontiers-in-Ecol-Environ-2024-Gazing-Wolf-Centering-Indigenous-Knowledges-in-ecology-and-beyond.pdf" target="_blank">Gazing Wolf et al. (2024)</a> on centering Indigenous knowledges in ecology</li>
-    <ul> <li>06/20/24: <a href="https://datascience.codata.org/articles/10.5334/dsj-2024-037" target="_blank">O'Brien et al. (2022)</a> on guidance for implementing CARE in earth science data repositories</li>
+          <ul>  <li>10/29/24: <a href="https://www.anticolonialresearchlibrary.org/wp-content/uploads/2024/06/Frontiers-in-Ecol-Environ-2024-Gazing-Wolf-Centering-Indigenous-Knowledges-in-ecology-and-beyond.pdf" target="_blank">Gazing Wolf et al. (2024)</a> on centering Indigenous knowledges in ecology</li>
+    <li>06/20/24: <a href="https://datascience.codata.org/articles/10.5334/dsj-2024-037" target="_blank">O'Brien et al. (2022)</a> on guidance for implementing CARE in earth science data repositories</li>
       <li>05/07/24: <a href="https://www.nature.com/articles/s41559-021-01608-8" target="_blank">Raja et al. (2022)</a> on sampling bias resulting from parachute science in paleontology</li>
       <li>04/02/24: <a href="https://philsci-archive.pitt.edu/21039/1/FAIRandCAREData-April6-2022.pdf" target="_blank">Sterner & Elliott (2022)</a> on the communities privileged by FAIR and CARE data principles</li>
     <li>03/05/24: <a href="https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf" target="_blank">Tuck & Yang (2012)</a> on the use and abuse of the language of decolonization, and </li>
