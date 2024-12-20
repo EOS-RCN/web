@@ -25,7 +25,7 @@ permalink: /funding
    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226368&HistoricalAwards=false">NSF-2226368</a> to Jessica Blois (University of California - Merced), </li>
    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226369&HistoricalAwards=false">NSF-2226369</a> to Jack Williams and Simon Goring (University of Wisconsin - Madison),</li> 
    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226370&HistoricalAwards=false">NSF-2226370</a> to Kitty Emery and Michelle LeFebvre (University of Florida) and Suzanne Pilaar Birch (University of Georgia),</li>
-   <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226371&HistoricalAwards=false">NSF-2226371</a> to Andrea Thomer (University of Michigan, now at University of Arizona),</li>
+   <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245082&HistoricalAwards=false">NSF-2226371</a> to Andrea Thomer (University of Michigan, now at University of Arizona),</li>
    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226372&HistoricalAwards=false">NSF-2226372</a> to Meghan Balk (NEON, now at University of Arizona and University of Oslo), and </li>
    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226373&HistoricalAwards=false">NSF-2226373</a> to Leigh Anne Lieberman (The Alexandria Archive Institute/Open Context).</li></ul> 
    For more information, consult the linked individual NSF award abstracts. </p>
