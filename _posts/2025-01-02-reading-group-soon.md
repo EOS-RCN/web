@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming Reading Group Session: 01/08/25
+title: Upcoming Reading Group Session Jan 8
 author: Nick Hoffman
 date: 2024-08-08
 tags: symposium
