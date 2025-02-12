@@ -20,7 +20,7 @@ figcap: ""
 </style>
 
 <div class="text-box-main">
-<p> Join us on Wednesday, January 8th, 2025, at 10am Pacific time for our next reading group session! We will be discussing 
+<p> Join us on Wednesday, February 12th, 2025, at 10am Pacific time for our next reading group session! We will be discussing 
 <a href="https://www.nature.com/articles/s41467-024-53480-2" target="_blank">Jennings et al. (2025)</a>. Our zoom link is <a href="https://ucmerced.zoom.us/j/84677891557" target="_blank">here</a>.
 </p>
 </div>
