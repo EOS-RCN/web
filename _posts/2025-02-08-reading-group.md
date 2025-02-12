@@ -1,4 +1,4 @@
---
+---
 layout: post
 title: Upcoming Reading Group Session Feb 12
 author: Nick Hoffman
