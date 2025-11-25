@@ -251,7 +251,7 @@ permalink: /community
       </div>
   <div class="collapse" id="readMore_info-landscape">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-          <p>Led by Lieberman, LeFebvre, Thomer, and Balk, we developed a structured self-reflection tool to engage in a deep-dive reflection about ethical open science, FAIR, and CARE within both our personal scientific practice and within the policies of our organizations. We expect that our answers to these questions will change over time. The purpose of this self-reflection is to gain an initial honest assessment of where we are as practitioners and where our repositories are now in terms of implementing the FAIR and CARE principles in our scholarship.</p>
+          <p>Led by Lieberman, LeFebvre, Thomer, and Balk, we developed a <a href="https://zenodo.org/records/14537346">structured self-reflection tool</a> to engage in a deep-dive reflection about ethical open science, FAIR, and CARE within both our personal scientific practice and within the policies of our organizations. We expect that our answers to these questions will change over time. The purpose of this self-reflection is to gain an initial honest assessment of where we are as practitioners and where our repositories are now in terms of implementing the FAIR and CARE principles in our scholarship.</p>
           </div>
         </div>
 
