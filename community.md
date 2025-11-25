@@ -230,9 +230,11 @@ permalink: /community
             <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
               <p>We have organized a webinar series for experts in informatics to offer lessons to our community. Topics so far have included
               <ul>
-              <li>a series of introductions to Quaternary databases,</li>
-              <li>an overview of the past and present intertwining of paleontology with structures of domination, and </li>
-              <li>a guide from LocalContexts on using their cultural metadata fields.</li>
+              <li>a series of introductions to Quaternary databases (e.g., Open Context, the South Korean Pollen Database),</li>
+              <li>an overview of the past and present intertwining of paleontology with structures of domination, </li>
+              <li>a guide from LocalContexts on using their cultural metadata fields,</li>
+              <li>a discussion of the uses of pollen at Colonial Williamsburg, and</li>
+              <li>a demonstration of the way that FAIR on its own can reinforce extractivist paleontological legacies.</li>
               </ul>
              <p> Click <a href="https://eos-rcn.github.io/web/webinarview" target="_blank">here</a> to learn more.</p></p>
 
