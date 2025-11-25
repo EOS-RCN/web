@@ -244,6 +244,7 @@ permalink: /community
               <ol>
               <li>Symposium 1 (2023): <a target="_blank" href="https://eos-rcn.github.io/web/symposium2023">Agenda</a>, <a target="_blank" href="https://drive.google.com/drive/folders/1U6gJujYwoEdjTn71YNIv6yMio2H23gSP">Google Drive Directory</a></li>
               <li>Symposium 2 (2024): <a  target="_blank" href="https://eos-rcn.github.io/web/symposium2024">Agenda</a>, <a target="_blank" href="https://drive.google.com/drive/folders/1mhUOxJekxAIlwwpbFUun540j2fOiIIsW">Google Drive Directory</a></li>
+              <li>Symposium 3 (2025): <a target="_blank" href="https://eos-rcn.github.io/web/symposium2025">Agenda</a>, <a target="_blank" href="https://drive.google.com/drive/folders/1RELrNfykXBO32Xd6Y5L7YYRDMhwVvV5X">Google Drive Directory</a></li>
               </ol>
 </p>
             </div>
