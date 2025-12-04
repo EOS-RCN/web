@@ -263,8 +263,27 @@ permalink: /community
 
   <div class="collapse" id="readMore_ECR">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
-          <p>We have a focus on elevating the voices of early career researchers. Our ECR group is working on an articulation of the challenges faced by ECRs when enacting ethical open science in practice, with a focus on discipline-specific needs as well as universal challenges. Subsets of the ECRs are simultaneously writing papers on the challenges of legacy data from an interdisciplinary perspective and with a focus on CARE, and also a perspective piece that argues for the importance of CARE data principles for paleontological data and paleontologists.
+          <p>Led by Meghan Balk, we have a focus on elevating the voices of early career researchers. Our ECR group is working on an articulation of the challenges faced by ECRs when enacting ethical open science in practice, with a focus on discipline-specific needs as well as universal challenges. Subsets of the ECRs are simultaneously writing papers on the challenges of legacy data from an interdisciplinary perspective and with a focus on CARE, and also a perspective piece about the opportunities and challenges in incorporating FAIR and CARE data principles into practice.
 </p>
+            <p>The members of the ECR group include:</p>
+            <ul>
+              <li><a href="https://sites.google.com/view/megbalk" target="_blank">Meghan Balk</a></li>
+              <li><a href="https://www.floridamuseum.ufl.edu/people/michelle-lefebvre/" target="_blank">Michelle LeFebvre</a></li>
+              <li><a href="https://artandarchaeology.princeton.edu/people/leigh-anne-lieberman" target="_blank">Leigh Lieberman</a></li>
+              <li><a href="https://www.sdstate.edu/directory/rachel-short" target="_blank">Rachel Short</a></li>
+              <li><a href="https://www.andreathomer.com/" target="_blank">Andrea Thomer</a></li>
+              <li><a href="https://natalieraia.com/" target="_blank">Natalie Raia</a></li>
+              <li><a href="https://vjpsyverson.github.io/index.html" target="_blank">Val Syverson</a></li>
+              <li>Darcy Bird</li>
+              <li><a href="https://ischool.umd.edu/directory/ia-bull/" target="_blank">Ia Bull</a></li>
+              <li><a href="https://alexandriaarchive.org/about/people/" target="_blank">Melissa Cradic</a></li>
+              <li><a href="https://www.cla.purdue.edu/directory/profiles/emily-fletcher.html" target="_blank">Emily Fletcher</a></li>
+              <li><a href="https://adriankgeorge.github.io/" target="_blank">Adrian George</a></li>
+              <li><a href="https://www.vtstratpaleo.org/" target="_blank">Pedro Monarrez</a></li>
+              <li><a href="https://iee.psu.edu/people/karen-pham" target="_blank">Karen Pham</a></li>
+              <li><a href="https://www.au.dk/en/nschlenker@bio.au.dk/" target="_blank">Nora Schlenker</a></li>
+              <li><a href="https://scse.d.umn.edu/faculty-staff/dr-jansen-smith-phd" target="_blank">Jansen Smith</a></li>
+            </ul>
           </div>
         </div>
 
