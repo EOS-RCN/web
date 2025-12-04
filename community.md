@@ -460,3 +460,13 @@ permalink: /community
     }
   });
 </script>
+
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    if (window.location.href.indexOf("ECR") > -1) {
+      document.getElementById("readMore_ECR").classList.toggle("show_b");
+      document.getElementById("ECR").classList.toggle("bttn_show");
+    }
+  });
+</script>
