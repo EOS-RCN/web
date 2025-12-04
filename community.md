@@ -215,7 +215,11 @@ permalink: /community
           <button class="bttn" id="case-study" onclick="Func_casestudy()"> 
             <div><p><strong>Annual Symposia</strong></p></div>
       </button>
-        
+
+  <br>
+      <button class="bttn" id="ECR" onclick="Func_ecr()"> 
+            <div><p><strong>ECR Group</strong></p></div>
+      </button>
     <br>
           <button class="bttn" id="pracs" onclick="Func_pracs()"> 
             <div><p><strong>Webinar Series</strong></p></div>
@@ -254,6 +258,13 @@ permalink: /community
   <div class="collapse" id="readMore_info-landscape">
           <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
           <p>Led by Lieberman, LeFebvre, Thomer, and Balk, we developed a <a href="https://zenodo.org/records/14537346">structured self-reflection tool</a> to engage in a deep-dive reflection about ethical open science, FAIR, and CARE within both our personal scientific practice and within the policies of our organizations. We expect that our answers to these questions will change over time. The purpose of this self-reflection is to gain an initial honest assessment of where we are as practitioners and where our repositories are now in terms of implementing the FAIR and CARE principles in our scholarship.</p>
+          </div>
+        </div>
+
+  <div class="collapse" id="readMore_ECR">
+          <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
+          <p>We have a focus on elevating the voices of early career researchers. Our ECR group is working on an articulation of the challenges faced by ECRs when enacting ethical open science in practice, with a focus on discipline-specific needs as well as universal challenges. Subsets of the ECRs are simultaneously writing papers on the challenges of legacy data from an interdisciplinary perspective and with a focus on CARE, and also a perspective piece that argues for the importance of CARE data principles for paleontological data and paleontologists.
+</p>
           </div>
         </div>
 
@@ -309,8 +320,39 @@ permalink: /community
   document.getElementById("readMore_reading").classList.toggle("show_b");
   document.getElementById("reading").classList.toggle("bttn_show");
   }
+
+    if (document.getElementById("readMore_ECR").classList.contains("show_b")) {
+  document.getElementById("readMore_ECR").classList.toggle("show_b");
+  document.getElementById("ECR").classList.toggle("bttn_show");
+  }
     
 }
+
+  function Func_ecr() {
+  document.getElementById("readMore_ECR").classList.toggle("show_b");
+  document.getElementById("ECR").classList.toggle("bttn_show");
+
+    if (document.getElementById("readMore_pracs").classList.contains("show_b")) {
+  document.getElementById("readMore_pracs").classList.toggle("show_b");
+  document.getElementById("pracs").classList.toggle("bttn_show");
+  }
+
+    if (document.getElementById("readMore_case-study").classList.contains("show_b")) {
+  document.getElementById("readMore_case-study").classList.toggle("show_b");
+  document.getElementById("case-study").classList.toggle("bttn_show");
+  }
+          if (document.getElementById("readMore_reading").classList.contains("show_b")) {
+  document.getElementById("readMore_reading").classList.toggle("show_b");
+  document.getElementById("reading").classList.toggle("bttn_show");
+  }
+
+    if (document.getElementById("readMore_info-landscape").classList.contains("show_b")) {
+  document.getElementById("readMore_info-landscape").classList.toggle("show_b");
+  document.getElementById("info-landscape").classList.toggle("bttn_show");
+  }
+    
+}
+
 
 
   function Func_casestudy() {
@@ -330,6 +372,11 @@ permalink: /community
             if (document.getElementById("readMore_reading").classList.contains("show_b")) {
   document.getElementById("readMore_reading").classList.toggle("show_b");
   document.getElementById("reading").classList.toggle("bttn_show");
+  }
+
+     if (document.getElementById("readMore_ECR").classList.contains("show_b")) {
+  document.getElementById("readMore_ECR").classList.toggle("show_b");
+  document.getElementById("ECR").classList.toggle("bttn_show");
   }
 }
 
@@ -353,6 +400,11 @@ permalink: /community
   document.getElementById("readMore_reading").classList.toggle("show_b");
   document.getElementById("reading").classList.toggle("bttn_show");
   }
+
+     if (document.getElementById("readMore_ECR").classList.contains("show_b")) {
+  document.getElementById("readMore_ECR").classList.toggle("show_b");
+  document.getElementById("ECR").classList.toggle("bttn_show");
+  }
     
 }
 
@@ -373,6 +425,11 @@ permalink: /community
     if (document.getElementById("readMore_pracs").classList.contains("show_b")) {
   document.getElementById("readMore_pracs").classList.toggle("show_b");
   document.getElementById("pracs").classList.toggle("bttn_show");
+  }
+
+     if (document.getElementById("readMore_ECR").classList.contains("show_b")) {
+  document.getElementById("readMore_ECR").classList.toggle("show_b");
+  document.getElementById("ECR").classList.toggle("bttn_show");
   }
 
     
