@@ -4,7 +4,7 @@ title: Upcoming Community Webinar Feb 18
 author: Nick Hoffman
 date: 2025-02-11
 tags: webinar
-image: ""
+image: "\"https://eos-rcn.github.io/web/images/eos_circle.png\""
 alt: ""
 figcap: ""
 ---
