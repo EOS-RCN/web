@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webinar: Updates and Berlin Museum of Natural History
+title: Webinar on Updates and Berlin Museum of Natural History
 author: Natalie Raia
 date: 2025-03-18
 tags: webinar
