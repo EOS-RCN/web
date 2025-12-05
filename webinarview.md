@@ -10,7 +10,7 @@ title: Webinar Info
     </div>
   </div>
 
-<div id="encompass" style="display:grid;grid-template-columns: 5fr 1fr;">
+<div id="encompass" style="display:grid;grid-template-columns: 1fr 1fr; justify-content:space-between;">
    
 
    <div class="text-block-right" style="display:grid;grid-template-rows:auto auto;padding-left:0%;width:67%;align-content:start;padding-top:0px;margin-top:20px;border-top: 1px solid #ec970b;min-width:293px;">
