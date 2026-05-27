@@ -20,7 +20,7 @@ permalink: /funding
 
 <div class="text-block-right" style="padding:0;margin:0;width:100%;display:grid;grid-template-rows: auto;padding-left:5%;width:95%;">
  
- <p>This project is supported by the National Science Foundation: 
+ <p>This project is supported by the National Science Foundation, from 2022-2026: 
   <ul>
    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226368&HistoricalAwards=false">NSF-2226368</a> to Jessica Blois (University of California - Merced), </li>
    <li><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2226369&HistoricalAwards=false">NSF-2226369</a> to Jack Williams and Simon Goring (University of Wisconsin - Madison),</li> 
