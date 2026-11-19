@@ -290,7 +290,19 @@ permalink: /community
   <div class="collapse" id="readMore_reading">
   <div class="read-more-content" style="width:90%;padding-left:5%;padding-right:5%;padding-top:2%;padding-bottom:2%;">
           <p>We have begun a reading group in order to learn together about a variety of topics relating to the intertwining of our repositories with legacies of colonial violence. Readings so far have included: 
-          <ul>    <li>11/12/25: <a href="https://www.inthelibrarywiththeleadpipe.org/2025/digital-opaque/"> Purcell et al. 2025 </a>, on an ethical intervention in the display of biomedical material with fraught collection histories </li>
+          <ul>    
+            <li>12/09/26: <a href="https://doi.org/10.1525/hsns.2018.48.5.557"> Rosenberg 2018</a>, “Data as Word” </li>
+            <li>11/18/26: <a href="https://academic.oup.com/bioscience/article/71/5/467/6238581"> Eicken et al. 2021</a>, “Connecting Top-Down and Bottom-Up Approaches in Environmental Observing” </li>
+            <li>10/14/26: <a href="https://www.cell.com/action/showPdf?pii=S2590-3322%2826%2900214-9"> Sedran-Price et al. 2026 </a>, "Why environmental and ecological researchers who use models should CARE" </li>
+            <li>09/09/26: <a href="https://doi.org/10.1016/j.gim.2026.102641"> Curley et al. 2026 </a>, a review of indigenous perspectives on biobanking </li>
+            <li>08/12/26: <a href="https://www.jstor.org/stable/j.ctt1n2ttqh.13/"> TallBear 2017 </a>, "Chapter 9: Beyond the Life/Not-Life Binary: A Feminist-Indigenous Reading of Cryopreservation, Interspecies Thinking, and the New Materialisms" </li>
+            <li>07/08/26: <a href="https://www.frontiersin.org/journals/research-metrics-and-analytics/articles/10.3389/frma.2025.1553208/full"> Anderson et al. 2025 </a>, "Indigenous rights-based approaches to decolonising research methodologies in settler colonial contexts" </li>
+            <li>05/13/26: <a href="https://doi.org/10.1017/9781009416368"> Leonelli 2023 </a>, "Chapter 5: Rethinking Philosophy of Open Science" </li>
+            <li>04/08/26: <a href="https://hal.science/hal-05438163v1/document"> Anupama and Prasad 2025 </a>, "The structural blind spot: Resource inequity in palynological digitization and the role of curatorial labour" </li>
+            <li>03/11/26: <a href="https://journals.sagepub.com/doi/10.1177/2053951716654502"> Bates et al. 2025 </a>, "Data journeys: Capturing the socio-material constitution of data objects and flows" </li>
+            <li>02/11/26: <a href="https://datascience.codata.org/articles/1922/files/68ef6d526393a.pdf"> Hooft and Roos 2025 </a>, "Financing Models for Sustainable Data Reuse Infrastructure" </li>
+            <li>12/10/25: <a href="https://asistdl.onlinelibrary.wiley.com/doi/ftr/10.1002/pra2.1259"> Kaehrle & Eschenfelder 2025 </a>, "Justifying Biodiversity Data Access Restrictions: AGlobal Comparison of Data Policies"" </li>
+            <li>11/12/25: <a href="https://www.inthelibrarywiththeleadpipe.org/2025/digital-opaque/"> Purcell et al. 2025 </a>, on an ethical intervention in the display of biomedical material with fraught collection histories </li>
             <li>10/08/25: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5302085/"> Levin & Leonelli 2016</a>, situating the Open Science movement with respect to questions of value </li>
             <li>09/10/25: <a href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13090"> Derham et al. 2025 </a> & <a href="https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13107"> Fletcher's response</a>, an exchange on the relationship between rewilding and Indigenous land care</li>
             <li>08/13/25: <a href="https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24938"> Mattern et al. 2024 </a> on a political-economic theory of undersharing research data </li>
